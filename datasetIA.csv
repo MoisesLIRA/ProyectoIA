@@ -1,0 +1,502 @@
+﻿ID;Texto;Sentimiento;Intensidad del Sentimiento;Etiquetas de Trastorno Psicológico;Contexto;Palabras Clave;Anotaciones Clinicas;Edad del Usuario;Género de la persona
+1;Me siento triste y abrumado, nada parece mejorar.;Negativo;4;Depresión, Ansiedad;Hogar;triste, abrumado, nada, mejorar;Se recomienda evaluación clínica.;30;F
+2;Hoy ha sido un día increíble, todo salió perfecto!;Positivo;5;;Trabajo;increíble, perfecto;N/A;25;M
+3;No puedo dormir, la ansiedad me está matando.;Negativo;5;Ansiedad;Hogar;no puedo dormir, ansiedad, matando;Considerar intervención inmediata.;45;F
+4;Me siento en paz hoy, muy relajado.;Neutro;3;;Parque;paz, relajado;N/A;28;M
+5;Tengo miedo de enfrentar el día, todo es abrumador.;Negativo;4;Ansiedad;Trabajo;miedo, enfrentar, abrumador;Evaluar para posible terapia.;33;F
+6;Estoy muy contento con los resultados de hoy.;Positivo;4;;Escuela;contento, resultados;N/A;21;M
+7;Me siento completamente solo, nadie me entiende.;Negativo;5;Depresión;Hogar;solo, nadie, entiende;Monitorizar por signos de depresión.;38;F
+8;Ha sido un día normal, sin nada especial.;Neutro;3;;Oficina;normal, nada especial;N/A;29;M
+9;Estoy emocionado por el viaje de mañana.;Positivo;5;;Hogar;emocionado, viaje;N/A;26;F
+10;No puedo concentrarme, mi mente está en otro lado.;Negativo;4;Ansiedad;Trabajo;no puedo concentrarme, mente;Evaluar para posible ansiedad.;34;M
+11;Me siento agradecido por el apoyo de mis amigos.;Positivo;5;;Hogar;agradecido, apoyo, amigos;N/A;32;F
+12;Estoy agotado, no puedo seguir así.;Negativo;5;Depresión;Oficina;agotado, no puedo seguir;Considerar intervención inmediata.;40;M
+13;Me siento bien, nada fuera de lo común.;Neutro;3;;Escuela;bien, nada fuera de lo común;N/A;20;F
+14;La presentación fue un éxito total, me siento genial.;Positivo;5;;Trabajo;éxito, genial;N/A;35;M
+15;Estoy muy preocupado por mi salud, todo me estresa.;Negativo;5;Ansiedad;Hogar;preocupado, salud, estresa;Evaluar para posible ansiedad.;50;F
+16;Hoy fue un día productivo, logré todos mis objetivos.;Positivo;4;;Trabajo;productivo, objetivos;N/A;27;M
+17;Me siento vacío y sin propósito.;Negativo;5;Depresión;Hogar;vacío, sin propósito;Monitorizar por signos de depresión.;43;F
+18;Hoy fue un día tranquilo, sin sobresaltos.;Neutro;3;;Oficina;tranquilo, sin sobresaltos;N/A;31;M
+19;Estoy entusiasmado con el nuevo proyecto en el trabajo.;Positivo;5;;Trabajo;entusiasmado, nuevo proyecto;N/A;24;F
+20;Siento que estoy fallando en todo lo que hago.;Negativo;4;Depresión;Hogar;fallando, todo lo que hago;Evaluar para posible depresión.;37;M
+21;He recibido buenas noticias hoy, estoy muy feliz.;Positivo;5;;Escuela;buenas noticias, feliz;N/A;22;F
+22;Me siento confundido y perdido.;Negativo;4;Ansiedad;Hogar;confundido, perdido;Considerar intervención inmediata.;41;M
+23;Ha sido un día normal, sin grandes emociones.;Neutro;3;;Trabajo;normal, sin grandes emociones;N/A;28;F
+24;Estoy muy agradecido por la oportunidad.;Positivo;4;;Oficina;agradecido, oportunidad;N/A;33;M
+25;No puedo soportar la presión, estoy al límite.;Negativo;5;Ansiedad;Hogar;no puedo soportar, presión, al límite;Evaluar para posible intervención.;44;F
+26;Me siento relajado y en paz.;Neutro;3;;Parque;relajado, en paz;N/A;30;M
+27;Hoy fue un día muy especial, me siento increíblemente bien.;Positivo;5;;Escuela;especial, increíblemente bien;N/A;23;F
+28;Estoy muy frustrado con todo lo que está pasando.;Negativo;4;Ansiedad;Hogar;frustrado, todo lo que está pasando;Evaluar para posible intervención.;39;M
+29;Me siento neutral, ni bien ni mal.;Neutro;3;;Oficina;neutral, ni bien ni mal;N/A;29;F
+30;Estoy lleno de esperanza y optimismo por el futuro.;Positivo;5;;Hogar;esperanza, optimismo, futuro;N/A;27;M
+31;Me siento desesperado, nada parece tener sentido.;Negativo;5;Depresión;Hogar;desesperado, nada, sentido;Considerar intervención inmediata.;42;M
+32;Estoy muy feliz por la nueva oportunidad laboral.;Positivo;5;;Trabajo;feliz, nueva oportunidad, laboral;N/A;34;F
+33;Me siento agotado y sin energía.;Negativo;4;Ansiedad;Hogar;agotado, sin energía;Evaluar para posible intervención.;38;M
+34;Hoy fue un día aburrido, nada interesante pasó.;Neutro;2;;Oficina;aburrido, nada interesante;N/A;29;F
+35;Estoy encantado con los nuevos proyectos en marcha.;Positivo;5;;Trabajo;encantado, nuevos proyectos;N/A;31;M
+36;No sé cómo manejar todo este estrés.;Negativo;5;Ansiedad;Hogar;estrés, manejar, no sé;Evaluar para posible intervención.;36;F
+37;Me siento tranquilo y sereno hoy.;Neutro;3;;Parque;tranquilo, sereno;N/A;27;M
+38;Hoy fue un día fantástico, todo salió mejor de lo esperado.;Positivo;5;;Escuela;fantástico, mejor de lo esperado;N/A;22;F
+39;Estoy muy nervioso por la presentación de mañana.;Negativo;4;Ansiedad;Trabajo;nervioso, presentación, mañana;Evaluar para posible intervención.;30;M
+40;Me siento agradecido por cada pequeña cosa en mi vida.;Positivo;5;;Hogar;agradecido, pequeña cosa;N/A;35;F
+41;Estoy abrumado por la cantidad de trabajo.;Negativo;4;Ansiedad;Oficina;abrumado, cantidad, trabajo;Evaluar para posible intervención.;33;M
+42;Hoy ha sido un día común y corriente.;Neutro;3;;Escuela;común, corriente;N/A;21;F
+43;Estoy muy emocionado por el viaje de vacaciones.;Positivo;5;;Hogar;emocionado, viaje, vacaciones;N/A;26;M
+44;Me siento totalmente inútil y sin valor.;Negativo;5;Depresión;Hogar;inútil, sin valor;Considerar intervención inmediata.;40;F
+45;Hoy ha sido un día muy productivo.;Positivo;4;;Trabajo;productivo;N/A;28;M
+46;Estoy muy preocupado por el examen final.;Negativo;4;Ansiedad;Escuela;preocupado, examen, final;Evaluar para posible intervención.;24;F
+47;Me siento neutral, el día ha sido normal.;Neutro;3;;Oficina;neutral, normal;N/A;29;M
+48;Estoy agradecido por la ayuda que recibí hoy.;Positivo;4;;Hogar;agradecido, ayuda;N/A;32;F
+49;No sé si puedo seguir adelante con todo esto.;Negativo;5;Depresión;Hogar;no sé, seguir adelante;Considerar intervención inmediata.;37;M
+50;Hoy fue un día interesante, aprendí mucho.;Positivo;4;;Escuela;interesante, aprendí mucho;N/A;23;F
+51;Me siento solo y aislado de los demás.;Negativo;5;Depresión;Hogar;solo, aislado;Evaluar para posible intervención.;41;M
+52;Hoy fue un día regular, sin altibajos.;Neutro;3;;Oficina;regular, sin altibajos;N/A;30;F
+53;Estoy muy contento con mis logros recientes.;Positivo;5;;Trabajo;contento, logros recientes;N/A;36;M
+54;Me siento ansioso y no puedo dejar de preocuparme.;Negativo;5;Ansiedad;Hogar;ansioso, preocuparme;Evaluar para posible intervención.;39;F
+55;Estoy muy emocionado por la fiesta de esta noche.;Positivo;5;;Hogar;emocionado, fiesta, noche;N/A;27;M
+56;Hoy ha sido un día bastante tranquilo.;Neutro;3;;Parque;tranquilo;N/A;25;F
+57;Estoy abrumado por todas las responsabilidades.;Negativo;4;Ansiedad;Oficina;abrumado, responsabilidades;Evaluar para posible intervención.;31;M
+58;Me siento muy bien con los resultados del proyecto.;Positivo;4;;Trabajo;bien, resultados, proyecto;N/A;34;F
+59;No puedo dejar de sentirme inútil y deprimido.;Negativo;5;Depresión;Hogar;inútil, deprimido;Considerar intervención inmediata.;42;M
+60;Hoy ha sido un día increíblemente productivo.;Positivo;5;;Escuela;increíblemente productivo;N/A;21;F
+61;Me siento abrumado por los plazos de entrega.;Negativo;4;Ansiedad;Trabajo;abrumado, plazos, entrega;Evaluar para posible intervención.;29;M
+62;Estoy muy contento por la visita de mi familia.;Positivo;5;;Hogar;contento, visita, familia;N/A;33;F
+63;Me siento sin motivación para hacer nada.;Negativo;4;Depresión;Hogar;sin motivación, nada;Evaluar para posible intervención.;41;M
+64;Hoy fue un día sin sorpresas, todo normal.;Neutro;3;;Oficina;sin sorpresas, normal;N/A;28;F
+65;Estoy emocionado por empezar mi nuevo proyecto.;Positivo;5;;Trabajo;emocionado, nuevo proyecto;N/A;32;M
+66;No puedo dejar de pensar en lo que salió mal.;Negativo;5;Ansiedad;Hogar;no puedo dejar, salió mal;Evaluar para posible intervención.;36;F
+67;Me siento calmado después de meditar.;Neutro;3;;Parque;calmado, meditar;N/A;27;M
+68;Hoy fue un día maravilloso, todo salió perfecto.;Positivo;5;;Escuela;maravilloso, perfecto;N/A;24;F
+69;Estoy muy preocupado por la situación actual.;Negativo;4;Ansiedad;Trabajo;preocupado, situación actual;Evaluar para posible intervención.;30;M
+70;Me siento agradecido por tener salud.;Positivo;5;;Hogar;agradecido, salud;N/A;35;F
+71;Estoy cansado de lidiar con los mismos problemas.;Negativo;4;Depresión;Oficina;cansado, mismos problemas;Evaluar para posible intervención.;39;M
+72;Hoy ha sido un día común, sin nada emocionante.;Neutro;3;;Escuela;común, nada emocionante;N/A;21;F
+73;Estoy muy emocionado por la cena de esta noche.;Positivo;5;;Hogar;emocionado, cena, noche;N/A;26;M
+74;Me siento inútil, como si nada importara.;Negativo;5;Depresión;Hogar;inútil, nada importara;Considerar intervención inmediata.;40;F
+75;Hoy ha sido un día muy productivo y satisfactorio.;Positivo;4;;Trabajo;productivo, satisfactorio;N/A;28;M
+76;Estoy muy nervioso por la entrevista de mañana.;Negativo;4;Ansiedad;Escuela;nervioso, entrevista, mañana;Evaluar para posible intervención.;23;F
+77;Me siento neutral sobre los eventos de hoy.;Neutro;3;;Oficina;neutral, eventos;N/A;29;M
+78;Estoy agradecido por los pequeños logros.;Positivo;4;;Hogar;agradecido, pequeños logros;N/A;32;F
+79;No sé cómo enfrentar todos mis problemas.;Negativo;5;Depresión;Hogar;no sé, enfrentar, problemas;Considerar intervención inmediata.;37;M
+80;Hoy fue un día muy interesante y lleno de aprendizaje.;Positivo;4;;Escuela;interesante, aprendizaje;N/A;23;F
+81;Me siento solo y sin apoyo.;Negativo;5;Depresión;Hogar;solo, sin apoyo;Evaluar para posible intervención.;41;M
+82;Hoy fue un día tranquilo, sin muchos eventos.;Neutro;3;;Oficina;tranquilo, sin eventos;N/A;30;F
+83;Estoy muy contento con mi progreso reciente.;Positivo;5;;Trabajo;contento, progreso reciente;N/A;36;M
+84;Me siento ansioso por las cosas que no puedo controlar.;Negativo;5;Ansiedad;Hogar;ansioso, no puedo controlar;Evaluar para posible intervención.;39;F
+85;Estoy muy emocionado por el concierto de esta noche.;Positivo;5;;Hogar;emocionado, concierto, noche;N/A;27;M
+86;Hoy fue un día bastante normal.;Neutro;3;;Parque;normal;N/A;25;F
+87;Estoy abrumado por todas las tareas pendientes.;Negativo;4;Ansiedad;Oficina;abrumado, tareas pendientes;Evaluar para posible intervención.;31;M
+88;Me siento bien con los resultados del trabajo en equipo.;Positivo;4;;Trabajo;bien, resultados, trabajo en equipo;N/A;34;F
+89;No puedo dejar de sentirme solo y deprimido.;Negativo;5;Depresión;Hogar;solo, deprimido;Considerar intervención inmediata.;42;M
+90;Hoy ha sido un día increíblemente productivo.;Positivo;5;;Escuela;increíblemente productivo;N/A;21;F
+91;Estoy preocupado por el futuro y lo que pueda pasar.;Negativo;4;Ansiedad;Hogar;preocupado, futuro, pasar;Evaluar para posible intervención.;30;M
+92;Me siento agradecido por el apoyo de mi familia.;Positivo;5;;Hogar;agradecido, apoyo, familia;N/A;33;F
+93;No sé cómo manejar esta presión constante.;Negativo;5;Ansiedad;Oficina;manejar, presión constante;Evaluar para posible intervención.;38;M
+94;Hoy ha sido un día sin mucho que destacar.;Neutro;3;;Escuela;sin mucho que destacar;N/A;24;F
+95;Estoy muy emocionado por la boda de mi mejor amigo.;Positivo;5;;Hogar;emocionado, boda, mejor amigo;N/A;26;M
+96;Me siento inútil y sin esperanza.;Negativo;5;Depresión;Hogar;inútil, sin esperanza;Considerar intervención inmediata.;40;F
+97;Hoy ha sido un día muy productivo y exitoso.;Positivo;4;;Trabajo;productivo, exitoso;N/A;28;M
+98;Estoy nervioso por la reunión de mañana.;Negativo;4;Ansiedad;Escuela;nervioso, reunión, mañana;Evaluar para posible intervención.;23;F
+99;Me siento neutral sobre todo lo que pasó hoy.;Neutro;3;;Oficina;neutral, todo lo que pasó;N/A;29;M
+100;Estoy agradecido por los momentos de paz.;Positivo;4;;Hogar;agradecido, momentos de paz;N/A;32;F
+101;No sé cómo seguir adelante con todo esto.;Negativo;5;Depresión;Hogar;seguir adelante, todo esto;Considerar intervención inmediata.;37;M
+102;Hoy fue un día muy interesante y educativo.;Positivo;4;;Escuela;interesante, educativo;N/A;23;F
+103;Me siento solo y desamparado.;Negativo;5;Depresión;Hogar;solo, desamparado;Evaluar para posible intervención.;41;M
+104;Hoy fue un día tranquilo, sin mucha actividad.;Neutro;3;;Oficina;tranquilo, sin mucha actividad;N/A;30;F
+105;Estoy muy contento con el nuevo proyecto.;Positivo;5;;Trabajo;contento, nuevo proyecto;N/A;36;M
+106;Me siento ansioso por las decisiones que debo tomar.;Negativo;5;Ansiedad;Hogar;ansioso, decisiones, tomar;Evaluar para posible intervención.;39;F
+107;Estoy muy emocionado por el evento de mañana.;Positivo;5;;Hogar;emocionado, evento, mañana;N/A;27;M
+108;Hoy fue un día bastante rutinario.;Neutro;3;;Parque;rutinario;N/A;25;F
+109;Estoy abrumado por las expectativas de los demás.;Negativo;4;Ansiedad;Oficina;abrumado, expectativas, demás;Evaluar para posible intervención.;31;M
+110;Me siento bien con los logros del equipo.;Positivo;4;;Trabajo;bien, logros, equipo;N/A;34;F
+111;Me siento emocionado por mi próxima fiesta de cumpleaños.;Positivo;5;;Social;emocionado, fiesta, cumpleaños;N/A;19;M
+112;Hoy ha sido un día increíble con mis amigos.;Positivo;4;;Social;increíble, amigos;N/A;20;F
+113;Me siento ansioso por el examen de mañana.;Negativo;4;Ansiedad;Escuela;ansioso, examen, mañana;Evaluar para posible intervención.;18;M
+114;Hoy fue un día normal, sin nada destacable.;Neutro;3;;Hogar;normal, nada destacable;N/A;22;F
+115;Estoy muy feliz por el nuevo videojuego que compré.;Positivo;5;;Hogar;feliz, videojuego, compré;N/A;17;M
+116;No puedo dejar de sentirme estresado por los exámenes.;Negativo;5;Ansiedad;Escuela;estresado, exámenes;Evaluar para posible intervención.;21;F
+117;Me siento tranquilo después de hacer ejercicio.;Neutro;3;;Gimnasio;tranquilo, ejercicio;N/A;23;M
+118;Hoy fue un día genial en la playa con amigos.;Positivo;5;;Social;genial, playa, amigos;N/A;20;F
+119;Estoy preocupado por el futuro y mis decisiones.;Negativo;4;Ansiedad;Hogar;preocupado, futuro, decisiones;Evaluar para posible intervención.;24;M
+120;Me siento agradecido por el apoyo de mi familia.;Positivo;5;;Hogar;agradecido, apoyo, familia;N/A;25;F
+121;Hoy ha sido un día estresante en el trabajo.;Negativo;4;Ansiedad;Trabajo;estresante, trabajo;Evaluar para posible intervención.;26;M
+122;Me siento emocionado por la próxima película de Marvel.;Positivo;5;;Hogar;emocionado, próxima película, Marvel;N/A;18;F
+123;Hoy fue un día bastante aburrido en casa.;Neutro;3;;Hogar;aburrido, casa;N/A;19;M
+124;Estoy feliz por el éxito de mi proyecto de arte.;Positivo;4;;Arte;feliz, éxito, proyecto de arte;N/A;20;F
+125;Me siento estresado por la presión académica.;Negativo;5;Ansiedad;Escuela;estresado, presión académica;Evaluar para posible intervención.;21;M
+126;Hoy fue un día tranquilo en el parque leyendo.;Neutro;3;;Parque;tranquilo, leyendo;N/A;22;F
+127;Estoy emocionado por el concierto de esta noche.;Positivo;5;;Social;emocionado, concierto, noche;N/A;23;M
+128;Me siento abrumado por todas las tareas pendientes.;Negativo;4;Ansiedad;Trabajo;abrumado, tareas pendientes;Evaluar para posible intervención.;20;M
+129;Estoy emocionado por mi próximo viaje al extranjero.;Positivo;5;;Viaje;emocionado, próximo viaje, extranjero;N/A;24;M
+130;Me siento estresado por la falta de tiempo para estudiar.;Negativo;4;Ansiedad;Escuela;estresado, falta de tiempo, estudiar;Evaluar para posible intervención.;21;F
+131;Hoy fue un día relajante en casa viendo películas.;Positivo;4;;Hogar;relajante, casa, viendo películas;N/A;22;M
+132;Estoy feliz por el ascenso de mi amigo en el trabajo.;Positivo;5;;Trabajo;feliz, ascenso, amigo, trabajo;N/A;25;F
+133;Me siento ansioso por la entrevista de trabajo.;Negativo;4;Ansiedad;Trabajo;ansioso, entrevista, trabajo;Evaluar para posible intervención.;26;M
+134;Hoy fue un día aburrido en la biblioteca estudiando.;Neutro;3;;Escuela;aburrido, biblioteca, estudiando;N/A;23;F
+135;Estoy emocionado por la visita de mi familia este fin de semana.;Positivo;5;;Hogar;emocionado, visita, familia, fin de semana;N/A;24;M
+136;Me siento agobiado por la cantidad de deberes pendientes.;Negativo;4;Ansiedad;Escuela;agobiado, cantidad, deberes pendientes;Evaluar para posible intervención.;21;F
+137;Hoy fue un día tranquilo y relajado en el parque.;Neutro;3;;Parque;tranquilo, relajado, parque;N/A;22;M
+138;Estoy emocionado por el lanzamiento de mi nuevo libro.;Positivo;5;;Escritura;emocionado, lanzamiento, nuevo libro;N/A;25;F
+139;Me siento agotado después de un largo día de trabajo.;Negativo;4;;Trabajo;agotado, largo día, trabajo;Evaluar para posible intervención.;26;M
+140;Hoy fue un día interesante explorando nuevos lugares.;Positivo;4;;Viaje;interesante, explorando, nuevos lugares;N/A;23;F
+141;Estoy ansioso por la próxima presentación en clase.;Negativo;4;Ansiedad;Escuela;ansioso, próxima presentación, clase;Evaluar para posible intervención.;21;M
+142;Hoy fue un día aburrido en el trabajo haciendo informes.;Neutro;3;;Trabajo;aburrido, informes, trabajo;N/A;24;F
+143;Estoy emocionado por la fiesta de cumpleaños de mi amigo.;Positivo;5;;Social;emocionado, fiesta, cumpleaños, amigo;N/A;25;M
+144;Me siento preocupado por mi rendimiento académico.;Negativo;4;Ansiedad;Escuela;preocupado, rendimiento académico;Evaluar para posible intervención.;22;F
+145;Hoy fue un día tranquilo en casa leyendo un libro.;Neutro;3;;Hogar;tranquilo, casa, leyendo, libro;N/A;23;M
+146;Estoy feliz por el progreso en mi entrenamiento físico.;Positivo;5;;Deporte;feliz, progreso, entrenamiento físico;N/A;24;F
+147;Me siento estresado por los problemas familiares.;Negativo;4;Ansiedad;Hogar;estresado, problemas familiares;Evaluar para posible intervención.;21;M
+148;Hoy fue un día aburrido en la oficina haciendo informes.;Neutro;3;;Trabajo;aburrido, informes, oficina;N/A;22;F
+149;Estoy emocionado por la visita de mi hermano el próximo mes.;Positivo;5;;Hogar;emocionado, visita, hermano, próximo mes;N/A;25;M
+150;Me siento agobiado por las expectativas de los demás.;Negativo;4;Ansiedad;Social;agobiado, expectativas, demás;Evaluar para posible intervención.;23;F
+151;Hoy fue un día tranquilo en el parque disfrutando del clima.;Neutro;3;;Parque;tranquilo, parque, disfrutando, clima;N/A;24;M
+152;Estoy emocionado por el estreno de la nueva película.;Positivo;5;;Cine;emocionado, estreno, nueva película;N/A;25;F
+153;Me siento estresado por los plazos de entrega cortos;Negativo;4;Ansiedad;Escuela;estresado, plazos de entrega cortos;Evaluar para posible intervención.;22;M
+154;Me siento emocionado por comenzar un nuevo proyecto.;Positivo;5;;Trabajo;emocionado, comenzar, nuevo proyecto;N/A;26;M
+155;Estoy frustrado por no poder resolver este problema.;Negativo;4;;Trabajo;frustrado, resolver, problema;Evaluar para posible intervención.;27;F
+156;Hoy fue un día ajetreado corriendo de un lado a otro.;Neutro;3;;Cotidiano;ajetreado, corriendo, lado a otro;N/A;19;M
+157;Me siento emocionado por el inicio de las vacaciones.;Positivo;5;;Viaje;emocionado, inicio, vacaciones;N/A;20;F
+158;Estoy preocupado por la salud de un ser querido.;Negativo;4;Ansiedad;Salud;preocupado, salud, ser querido;Evaluar para posible intervención.;21;M
+159;Hoy fue un día tranquilo en el campo rodeado de naturaleza.;Neutro;3;;Naturaleza;tranquilo, campo, rodeado, naturaleza;N/A;22;F
+160;Me siento feliz por haber completado mi proyecto.;Positivo;5;;Trabajo;feliz, completado, proyecto;N/A;23;M
+161;Estoy abrumado por la cantidad de trabajo pendiente.;Negativo;4;Ansiedad;Trabajo;abrumado, cantidad, trabajo pendiente;Evaluar para posible intervención.;24;F
+162;Hoy fue un día relajante en el spa disfrutando de un masaje.;Neutro;3;;Bienestar;relajante, spa, disfrutando, masaje;N/A;25;M
+163;Me siento emocionado por la llegada de un nuevo miembro a la familia.;Positivo;5;;Familia;emocionado, llegada, nuevo miembro, familia;N/A;26;F
+164;Estoy preocupado por los problemas financieros.;Negativo;4;Ansiedad;Finanzas;preocupado, problemas, financieros;Evaluar para posible intervención.;27;M
+165;Hoy fue un día de descanso en casa viendo películas.;Neutro;3;;Hogar;descanso, casa, viendo, películas;N/A;21;F
+166;Me siento emocionado por la posibilidad de un cambio.;Positivo;5;;Transformación;emocionado, posibilidad, cambio;N/A;22;M
+167;Estoy ansioso por la próxima entrevista de trabajo.;Negativo;4;Ansiedad;Trabajo;ansioso, próxima, entrevista, trabajo;Evaluar para posible intervención.;23;F
+168;Hoy fue un día divertido en el parque de atracciones.;Positivo;4;;Entretenimiento;divertido, parque de atracciones;N/A;24;M
+169;Me siento agotado después de un largo día de mudanza.;Negativo;4;;Mudanza;agotado, largo día, mudanza;Evaluar para posible intervención.;25;F
+170;Hoy fue un día de aventuras explorando nuevos senderos.;Neutro;3;;Naturaleza;aventuras, explorando, nuevos senderos;N/A;26;M
+171;Me siento feliz por haber superado un obstáculo importante.;Positivo;5;;Superación;feliz, superado, obstáculo importante;N/A;27;F
+172;Estoy preocupado por la situación política del país.;Negativo;4;Ansiedad;Política;preocupado, situación, política, país;Evaluar para posible intervención.;21;M
+173;Hoy fue un día de reflexión en el jardín de meditación.;Neutro;3;;Bienestar;reflexión, jardín de meditación;N/A;22;F
+174;Me siento emocionado por el próximo concierto.;Positivo;5;;Entretenimiento;emocionado, próximo concierto;N/A;23;M
+175;Estoy frustrado por no poder alcanzar mis metas.;Negativo;4;;Superación;frustrado, alcanzar, metas;Evaluar para posible intervención.;24;F
+176;Hoy fue un día de aprendizaje en el taller de cocina.;Neutro;3;;Cocina;aprendizaje, taller de cocina;N/A;25;M
+177;Me siento feliz por la oportunidad de viajar.;Positivo;5;;Viaje;feliz, oportunidad, viajar;N/A;26;F
+178;Estoy estresado por la presión de la vida laboral.;Negativo;4;Ansiedad;Trabajo;estresado, pres;Evaluar para posible intervención.;27;M
+179;Hoy fue un día de nostalgia recordando viejos tiempos.;Neutro;3;;Recuerdos;nostalgia, recordando, viejos tiempos;N/A;27;M
+180;Me siento emocionado por el próximo lanzamiento de un libro.;Positivo;5;;Literatura;emocionado, próximo lanzamiento, libro;N/A;26;F
+181;Estoy preocupado por la salud mental de un amigo.;Negativo;4;Ansiedad;Relaciones;preocupado, salud mental, amigo;Evaluar para posible intervención.;25;M
+182;Hoy fue un día tranquilo disfrutando de la lectura.;Neutro;3;;Pasatiempo;tranquilo, disfrutando, lectura;N/A;24;F
+183;Me siento feliz por haber encontrado un nuevo pasatiempo.;Positivo;5;;Pasatiempo;feliz, encontrado, nuevo pasatiempo;N/A;23;M
+184;Estoy ansioso por el próximo viaje que tengo planeado.;Negativo;4;Ansiedad;Viaje;ansioso, próximo viaje, planeado;Evaluar para posible intervención.;22;F
+185;Hoy fue un día de alegría celebrando un logro personal.;Positivo;5;;Celebración;alegría, celebrando, logro personal;N/A;21;M
+186;Me siento frustrado por no poder resolver un problema.;Negativo;4;;Solución;frustrado, resolver, problema;Evaluar para posible intervención.;20;F
+187;Hoy fue un día de relajación en el spa disfrutando de masajes.;Neutro;3;;Bienestar;relajación, spa, disfrutando, masajes;N/A;19;M
+188;Me siento emocionado por la oportunidad de un nuevo comienzo.;Positivo;5;;Cambio;emocionado, oportunidad, nuevo comienzo;N/A;18;F
+189;Estoy preocupado por el cambio climático.;Negativo;4;Ansiedad;Medio Ambiente;preocupado, cambio climático;Evaluar para posible intervención.;27;M
+190;Hoy fue un día de contemplación en el parque.;Neutro;3;;Naturaleza;contemplación, parque;N/A;26;F
+191;Me siento feliz por haber pasado tiempo con mi familia.;Positivo;5;;Familia;feliz, tiempo, familia;N/A;25;M
+192;Estoy ansioso por la reunión importante de mañana.;Negativo;4;Ansiedad;Trabajo;ansioso, reunión, importante, mañana;Evaluar para posible intervención.;24;F
+193;Hoy fue un día de aventura explorando un nuevo sendero.;Neutro;3;;Naturaleza;aventura, explorando, nuevo sendero;N/A;23;M
+194;Me siento emocionado por la posibilidad de un cambio positivo en mi vida.;Positivo;5;;Cambio;emocionado, posibilidad, cambio positivo;N/A;22;F
+195;Estoy preocupado por la situación económica del país.;Negativo;4;Ansiedad;Economía;preocupado, situación económica, país;Evaluar para posible intervención.;21;M
+196;Hoy fue un día de reflexión en el jardín botánico.;Neutro;3;;Reflexión;reflexión, jardín botánico;N/A;20;F
+197;Me siento feliz por haber encontrado un propósito en la vida.;Positivo;5;;Propósito;feliz, encontrado, propósito;N/A;19;M
+198;Estoy ansioso por el resultado de mi examen.;Negativo;4;Ansiedad;Educación;ansioso, resultado, examen;Evaluar para posible intervención.;18;F
+199;Hoy fue un día de paz y serenidad en la playa.;Neutro;3;;Naturaleza;paz, serenidad, playa;N/A;27;M
+200;Me siento emocionado por el próximo concierto de mi banda favorita.;Positivo;5;;Música;emocionado, próximo concierto, banda favorita;N/A;26;F
+201;Estoy preocupado por el estado de la educación pública.;Negativo;4;Ansiedad;Educación;preocupado, estado, educación pública;Evaluar para posible intervención.;25;M
+202;Hoy fue un día de conexión con la naturaleza en el bosque.;Neutro;3;;Naturaleza;conexión, naturaleza, bosque;N/A;24;F
+203;Me siento feliz por haber encontrado un nuevo pasatiempo.;Positivo;5;;Pasatiempo;feliz, encontrado, nuevo pasatiempo;N/A;22;F
+204;Hoy fue un día de emoción y nerviosismo esperando los resultados de un examen importante.;Positivo;4;Ansiedad;Educación;emoción, nerviosismo, resultados, examen;Evaluar para posible intervención.;22;F
+205;Me siento feliz y agradecido por el apoyo constante de mis amigos durante momentos difíciles.;Positivo;5;;Amistad;feliz, agradecido, apoyo, amigos;N/A;23;M
+206;Estoy ansioso por el inicio de un nuevo semestre escolar y las responsabilidades que conlleva.;Negativo;4;Ansiedad;Educación;ansioso, inicio, nuevo semestre, responsabilidades;Evaluar para posible intervención.;24;F
+207;Hoy fue un día de reflexión y meditación en un retiro espiritual.;Neutro;3;;Espiritualidad;reflexión, meditación, retiro espiritual;N/A;25;M
+208;Me siento feliz y emocionado por el compromiso de matrimonio de mi mejor amigo.;Positivo;5;;Celebración;feliz, emocionado, compromiso, matrimonio;N/A;26;F
+209;Estoy preocupado por el estado de mi relación sentimental actual.;Negativo;4;Ansiedad;Relaciones;preocupado, relación, estado, sentimental;Evaluar para posible intervención.;27;M
+210;Hoy fue un día de aventura y diversión explorando un nuevo destino turístico.;Positivo;5;;Viaje;aventura, diversión, explorando, destino turístico;N/A;28;F
+211;Me siento agobiado y estresado por las altas expectativas de mi jefe en el trabajo.;Negativo;4;Ansiedad;Trabajo;agobiado, estresado, altas expectativas, jefe;Evaluar para posible intervención.;29;M
+212;Hoy fue un día de inspiración y creatividad en mi taller de arte.;Positivo;5;;Arte;inspiración, creatividad, taller de arte;N/A;30;F
+213;Me siento optimista y motivado por las oportunidades que se presentan en el futuro.;Positivo;5;;Futuro;optimista, motivado, oportunidades, futuro;N/A;31;M
+214;Estoy preocupado y ansioso por el estado de salud de un familiar enfermo.;Negativo;4;Ansiedad;Salud;preocupado, ansioso, estado, salud, familiar enfermo;Evaluar para posible intervención.;32;F
+215;Hoy fue un día de tranquilidad y serenidad en medio de la naturaleza.;Neutro;3;;Naturaleza;tranquilidad, serenidad, naturaleza;N/A;33;M
+216;Me siento alegre y emocionado por el próximo nacimiento de mi sobrino.;Positivo;5;;Familia;alegre, emocionado, próximo nacimiento, sobrino;N/A;34;F
+217;Estoy frustrado y molesto por los constantes retrasos en el transporte público.;Negativo;4;;Transporte;frustrado, molesto, retrasos, transporte público;Evaluar para posible intervención.;35;M
+218;Hoy fue un día de descubrimiento y aprendizaje en un museo de historia local.;Positivo;5;;Cultura;descubrimiento, aprendizaje, museo de historia;N/A;36;F
+219;Me siento abrumado y estresado por las deudas financieras acumuladas.;Negativo;4;Ansiedad;Finanzas;abrumado, estresado, deudas financieras;Evaluar para posible intervención.;37;M
+220;Hoy fue un día de relajación y bienestar en un spa de lujo.;Neutro;3;;Bienestar;relajación, bienestar, spa de lujo;N/A;38;F
+221;Me siento esperanzado y agradecido por el apoyo de mis compañeros en el;Positivo;4;;Amigos;esperanzado, agradecido, apoyo;N/A;28;F
+222;Estoy ansioso y nervioso por mi próxima presentación en público.;Negativo;4;Ansiedad;Trabajo;ansioso, nervioso, próxima presentación, público;Evaluar para posible intervención.;39;M
+223;Hoy fue un día de nostalgia y recuerdos al visitar lugares de mi infancia.;Neutro;3;;Recuerdos;nostalgia, recuerdos, visitar, infancia;N/A;40;F
+224;Me siento emocionado y alegre por la visita de un amigo que no veía hace años.;Positivo;5;;Amistad;emocionado, alegre, visita, amigo, años;N/A;41;M
+225;Estoy preocupado y estresado por la sobrecarga de trabajo en la oficina.;Negativo;4;Ansiedad;Trabajo;preocupado, estresado, sobrecarga, oficina;Evaluar para posible intervención.;42;F
+226;Hoy fue un día de inspiración y creatividad pintando en mi estudio.;Positivo;5;;Arte;inspiración, creatividad, pintando, estudio;N/A;43;M
+227;Me siento feliz y satisfecho por haber logrado mis metas de acondicionamiento físico.;Positivo;5;;Deporte;feliz, satisfecho, logrado, metas, acondicionamiento físico;N/A;44;F
+228;Estoy preocupado y angustiado por la situación política actual en el país.;Negativo;4;Ansiedad;Política;preocupado, angustiado, situación política;Evaluar para posible intervención.;45;M
+229;Hoy fue un día de paz y armonía en mi sesión de yoga matutina.;Positivo;5;;Bienestar;paz, armonía, yoga matutina;N/A;46;F
+230;Me siento emocionado y nervioso por mi próxima entrevista de trabajo.;Mixto;4;Ansiedad;Trabajo;emocionado, nervioso, próxima entrevista, trabajo;Evaluar para posible intervención.;47;M
+231;Estoy frustrado y molesto por los constantes problemas de tráfico en la ciudad.;Negativo;4;;Transporte;frustrado, molesto, problemas, tráfico;Evaluar para posible intervención.;48;F
+232;Hoy fue un día de aprendizaje y descubrimiento en un taller de cocina internacional.;Positivo;5;;Cocina;aprendizaje, descubrimiento, taller de cocina;N/A;49;M
+233;Me siento aliviado y feliz por haber superado una enfermedad difícil.;Positivo;5;;Salud;aliviado, feliz, superado, enfermedad;N/A;50;F
+234;Estoy preocupado y ansioso por la situación económica personal y laboral.;Negativo;4;Ansiedad;Finanzas;preocupado, ansioso, situación económica;Evaluar para posible intervención.;51;M
+235;Hoy fue un día de alegría y celebración por el cumpleaños de un ser querido.;Positivo;5;;Celebración;alegría, celebración, cumpleaños, ser querido;N/A;52;F
+236;Me siento ansioso y preocupado por los problemas familiares que estamos enfrentando.;Negativo;4;Ansiedad;Familia;ansioso, preocupado, problemas familiares;Evaluar para posible intervención.;53;M
+237;Hoy fue un día de aventura y emoción escalando en las montañas.;Positivo;5;;Deporte;aventura, emoción, escalando, montañas;N/A;54;F
+238;Me siento feliz y satisfecho por haber completado un proyecto importante.;Positivo;5;;Trabajo;feliz, satisfecho, completado, proyecto;N/A;55;M
+239;Estoy preocupado y angustiado por los problemas de salud de un familiar cercano.;Negativo;4;Ansiedad;Salud;preocupado, angustiado, problemas de salud;Evaluar para posible intervención.;56;F
+240;Hoy fue un día de paz y tranquilidad en el retiro espiritual del monasterio.;Positivo;5;;Espiritualidad;paz, tranquilidad, retiro espiritual, monasterio;N/A;57;M
+241;Me siento emocionado y feliz por el nacimiento de mi primer hijo.;Positivo;5;;Familia;emocionado, feliz, nacimiento, primer hijo;N/A;58;F
+242;Estoy preocupado y estresado por los cambios en el entorno laboral y los posibles despidos.;Negativo;4;Ansiedad;Trabajo;preocupado, estresado, cambios, despidos;Evaluar para posible intervención.;59;M
+243;Hoy fue un día de diversión y entretenimiento en el parque de atracciones.;Positivo;5;;Entretenimiento;diversión, entretenimiento, parque de atracciones;N/A;60;F
+244;Hoy fue un día emocionante y lleno de adrenalina en el parque de skate.;Positivo;5;;Deporte;emocionante, adrenalina, parque de skate;N/A;16;M
+245;Me siento feliz y agradecido por la amistad de mis compañeros de clase.;Positivo;5;;Amistad;feliz, agradecido, amistad, compañeros de clase;N/A;17;F
+246;Estoy preocupado y ansioso por los exámenes finales que se acercan.;Negativo;4;Ansiedad;Educación;preocupado, ansioso, exámenes finales;Evaluar para posible intervención.;18;M
+247;Hoy fue un día de relajación y diversión en la playa con amigos.;Positivo;5;;Amistad;relajación, diversión, playa, amigos;N/A;19;F
+248;Me siento emocionado y nervioso por mi primera entrevista de trabajo.;Mixto;4;Ansiedad;Trabajo;emocionado, nervioso, primera entrevista, trabajo;Evaluar para posible intervención.;20;M
+249;Estoy frustrado y molesto por la presión académica en la universidad.;Negativo;4;Ansiedad;Educación;frustrado, molesto, presión académica;Evaluar para posible intervención.;21;F
+250;Hoy fue un día de aventura y exploración en una ruta de senderismo.;Positivo;5;;Naturaleza;aventura, exploración, ruta de senderismo;N/A;22;M
+251;Me siento feliz y emocionado por mi próximo viaje de mochilero.;Positivo;5;;Viaje;feliz, emocionado, próximo viaje, mochilero;N/A;23;F
+252;Estoy preocupado y ansioso por los problemas de salud de mi mascota.;Negativo;4;Ansiedad;Mascotas;preocupado, ansioso, problemas de salud;Evaluar para posible intervención.;24;M
+253;Hoy fue un día de paz y serenidad en la práctica de meditación.;Positivo;5;;Bienestar;paz, serenidad, meditación;N/A;25;F
+254;Me siento emocionado y nervioso por mudarme a una nueva ciudad para estudiar.;Mixto;4;Ansiedad;Mudanza;emocionado, nervioso, mudarme, nueva ciudad;Evaluar para posible intervención.;17;M
+255;Estoy frustrado y molesto por no poder encontrar un trabajo de medio tiempo.;Negativo;4;;Empleo;frustrado, molesto, encontrar trabajo, medio tiempo;Evaluar para posible intervención.;18;F
+256;Hoy fue un día de risas y diversión en un parque de diversiones con amigos.;Positivo;5;;Entretenimiento;risas, diversión, parque de diversiones, amigos;N/A;19;M
+257;Me siento feliz y emocionado por comenzar mi primer año en la universidad.;Positivo;5;;Educación;feliz, emocionado, comenzar, primer año;N/A;20;F
+258;Estoy preocupado y ansioso por los problemas familiares en casa.;Negativo;4;Ansiedad;Familia;preocupado, ansioso, problemas familiares;Evaluar para posible intervención.;21;M
+259;Hoy fue un día de aprendizaje y crecimiento personal en un taller de desarrollo personal.;Positivo;5;;Desarrollo Personal;aprendizaje, crecimiento personal, taller;N/A;22;F
+260;Me siento emocionado y nervioso por mi primer concierto como músico.;Mixto;4;;Música;emocionado, nervioso, primer concierto, músico;Evaluar para posible intervención.;23;M
+261;Estoy frustrado y molesto por los problemas de comunicación en mi relación.;Negativo;4;;Relaciones;frustrado, molesto, problemas comunicación;Evaluar para posible intervención.;24;F
+262;Hoy fue un día de relajación y desconexión en un retiro espiritual.;Positivo;5;;Espiritualidad;relajación, desconexión, retiro espiritual;N/A;25;M
+263;Me siento feliz y satisfecho por los avances en mis proyectos personales.;Positivo;5;;Proyectos;feliz, satisfecho, avances, proyectos personales;N/A;19;F
+264;Estoy preocupado y ansioso por la incertidumbre del futuro laboral.;Negativo;4;Ansiedad;Empleo;preocupado, ansioso, incertidumbre, futuro laboral;Evaluar para posible intervención.;20;M
+265;Hoy fue un día de alegría y celebración por el éxito de un proyecto en equipo.;Positivo;5;;Trabajo en Equipo;alegría, celebración, éxito, proyecto;N/A;21;F
+266;Me siento muy mal;Negativo;5;Ansiedad;Personal;muy, mal;Evaluar para posible intervención.;19;F
+267;Estoy abrumado por la oscuridad que siento dentro de mí.;Negativo;5;Depresión;Emocional;abrumado, oscuridad, dentro de mí;Evaluar para posible intervención.;22;M
+268;Me siento completamente vacío, como si no tuviera propósito en la vida.;Negativo;5;Depresión;Existencial;vacío, propósito, vida;Evaluar para posible intervención.;23;F
+269;Estoy atrapado en un ciclo de pensamientos suicidas y no sé cómo salir de él.;Negativo;5;Ideación Suicida;Salud Mental;atrapado, ciclo, pensamientos suicidas;Intervención urgente requerida.;24;M
+270;Siento que la ansiedad me consume por completo y no puedo controlarla.;Negativo;5;Trastorno de Ansiedad Generalizada;Ansiedad;ansiedad, consume, controlarla;Intervención urgente requerida.;25;F
+271;Estoy luchando contra mis impulsos autodestructivos y no sé cuánto más podré resistir.;Negativo;5;Trastorno de Personalidad Limítrofe;Autodestrucción;luchando, impulsos, autodestructivos;Intervención urgente requerida.;26;M
+272;Me siento como si estuviera en un pozo sin fondo, incapaz de encontrar una salida.;Negativo;5;Depresión;Existencial;pozo sin fondo, incapaz, salida;Evaluar para posible intervención.;27;F
+273;Estoy experimentando alucinaciones y no sé qué es real y qué no lo es.;Negativo;5;Esquizofrenia;Salud Mental;alucinaciones, real, no real;Intervención urgente requerida.;28;M
+274;Me siento completamente desesperado y sin esperanza de que las cosas mejoren.;Negativo;5;Depresión;Emocional;desesperado, sin esperanza, mejorar;Evaluar para posible intervención.;29;F
+275;Estoy en un estado de paranoia constante, convencido de que todos están en mi contra.;Negativo;5;Paranoia;Salud Mental;paranoia, constante, todos en mi contra;Intervención urgente requerida.;30;M
+276;Siento que mi cuerpo entero está temblando de pánico y no puedo calmarme.;Negativo;5;Trastorno de Pánico;Ansiedad;temblando, pánico, no puedo calmarme;Intervención urgente requerida.;31;F
+277;Estoy en un estado de total desesperación y no veo ninguna salida a mi sufrimiento.;Negativo;5;Depresión;Emocional;desesperación, salida, sufrimiento;Evaluar para posible intervención.;32;M
+278;Me siento completamente desconectado de la realidad y no sé cómo volver.;Negativo;5;Despersonalización;Salud Mental;desconectado, realidad, volver;Intervención urgente requerida.;33;F
+279;Estoy siendo perseguido por pensamientos intrusivos y no puedo detenerlos.;Negativo;5;Trastorno Obsesivo-Compulsivo;Salud Mental;perseguido, pensamientos intrusivos;Intervención urgente requerida.;34;M
+280;Siento que el dolor emocional es demasiado abrumador y no puedo soportarlo más.;Negativo;5;Trastorno de Estrés Postraumático;Emocional;dolor emocional, abrumador, no soportarlo;Intervención urgente requerida.;35;F
+281;Estoy luchando contra la voz en mi cabeza que me dice que no valgo nada y que sería mejor estar muerto.;Negativo;5;Depresión;Autodestrucción;luchando, voz en mi cabeza, no valgo nada;Intervención urgente requerida.;36;M
+282;Me siento atrapado en un estado de desesperanza y no veo ningún camino hacia adelante.;Negativo;5;Depresión;Emocional;atrapado, desesperanza, ningún camino adelante;Evaluar para posible intervención.;37;F
+283;Estoy experimentando episodios de ira incontrolable y me preocupa dañar a alguien o a mí mismo.;Negativo;5;Trastorno Explosivo Intermitente;Ira;ira incontrolable, preocupado, dañar;Intervención urgente requerida.;38;M
+284;Siento que mi mente está en una neblina constante y no puedo concentrarme en nada.;Negativo;5;Trastorno por Déficit de Atención e Hiperactividad;Salud Mental;mente en neblina, no puedo concentrarme;Intervención urgente requerida.;39;F
+285;Estoy consumido por pensamientos de autodesprecio y no puedo encontrar ninguna razón para quererme a mí mismo.;Negativo;5;Depresión;Autodestrucción;consumido, autodesprecio, ninguna razón;Intervención urgente requerida.;40;M
+286;Me siento como si estuviera en un agujero negro emocional del que no hay salida;Negativo;5;Depresión;Suicidio;agujero negro, no hay salida;Intervención urgente requerida.;16;M
+287;Estoy experimentando una crisis de identidad y no sé quién soy realmente.;Negativo;5;Trastorno de Identidad Disociativo;Identidad;crisis, identidad, quién soy realmente;Intervención urgente requerida.;24;F
+288;Siento que la ansiedad me está asfixiando y no puedo respirar adecuadamente.;Negativo;5;Trastorno de Ansiedad Generalizada;Ansiedad;ansiedad, asfixiando, respirar;Intervención urgente requerida.;25;M
+289;Estoy luchando contra la compulsión de lastimarme a mí mismo para sentir algo.;Negativo;5;Trastorno de Autolesión;Autodestrucción;luchando, compulsión, lastimarme;Intervención urgente requerida.;26;F
+290;Me siento como si estuviera atrapado en un cuerpo que no me pertenece.;Negativo;5;Disforia de Género;Identidad;atrapado, cuerpo, no me pertenece;Intervención urgente requerida.;27;M
+291;Estoy siendo atormentado por recuerdos traumáticos que no puedo sacar de mi mente.;Negativo;5;Trastorno de Estrés Postraumático;Trauma;atormentado, recuerdos traumáticos;Intervención urgente requerida.;28;F
+292;Siento que estoy perdiendo la batalla contra mis propios demonios internos.;Negativo;5;Trastorno de Estrés Postraumático;Autodestrucción;perdiendo, batalla, demonios internos;Intervención urgente requerida.;29;M
+293;Estoy en un estado de desesperación absoluta y no veo ninguna razón para seguir adelante.;Negativo;5;Depresión;Emocional;desesperación, razón, seguir adelante;Intervención urgente requerida.;30;F
+294;Me siento completamente desconectado de la realidad y no puedo encontrar mi camino de regreso.;Negativo;5;Despersonalización;Salud Mental;desconectado, realidad, camino de regreso;Intervención urgente requerida.;31;M
+295;Estoy siendo perseguido por pensamientos suicidas que me aterrorizan.;Negativo;5;Ideación Suicida;Autodestrucción;perseguido, pensamientos suicidas;Intervención urgente requerida.;32;F
+296;Siento que mi mente está fracturada en mil pedazos y no puedo juntarla de nuevo.;Negativo;5;Trastorno de Estrés Postraumático;Emocional;mente fracturada, mil pedazos, juntarla;Intervención urgente requerida.;33;M
+297;Estoy perdiendo la batalla contra mi ansiedad y no sé cuánto más puedo soportar.;Negativo;5;Trastorno de Ansiedad Generalizada;Ansiedad;perdiendo, batalla, ansiedad, soportar;Intervención urgente requerida.;34;F
+298;Me siento completamente atrapado en un estado de tristeza y no veo ninguna salida.;Negativo;5;Depresión;Emocional;atrapado, tristeza, ninguna salida;Intervención urgente requerida.;35;M
+299;Estoy siendo consumido por el odio hacia mí mismo y no puedo detenerlo.;Negativo;5;Autodestrucción;Odio hacia uno mismo;consumido, odio, detenerlo;Intervención urgente requerida.;36;F
+300;Siento que mi vida está fuera de control y no tengo el poder de cambiarla.;Negativo;5;Trastorno de Estrés Postraumático;Emocional;fuera de control, poder de cambiarla;Intervención urgente requerida.;37;M
+301;Estoy en un estado de desesperación absoluta y no veo ninguna razón para seguir adelante.;Negativo;5;Depresión;Emocional;desesperación, razón, seguir adelante;Intervención urgente requerida.;38;F
+302;Me siento completamente vacío, como si no tuviera propósito en la vida.;Negativo;5;Depresión;Existencial;vacío, propósito, vida;Intervención urgente requerida.;39;M
+303;Estoy atrapado en un ciclo de pensamientos suicidas y no sé cómo salir de él.;Negativo;5;Ideación Suicida;Salud Mental;atrapado, ciclo, pensamientos suicidas;Intervención urgente requerida.;40;F
+304;Siento que la ansiedad me consume por completo y no puedo controlarla.;Negativo;5;Trastorno de Ansiedad Generalizada;Ansiedad;ansiedad, consume, controlarla;Intervención urgente requerida.;41;M
+305;Estoy luchando contra mis impulsos autodestructivos y no sé cuánto más podré resistir.;Negativo;5;Trastorno de Personalidad Limítrofe;Autodestrucción;luchando, impulsos, autodestructivos;Intervención urgente requerida.;42;F
+306;Me siento como si estuviera en las nubes;Positivo;5;;Personal;en las nubes;N/A;12;F
+307;Estoy experimentando alucinaciones y no sé qué es real y qué no lo es.;Negativo;5;Esquizofrenia;Salud Mental;alucinaciones, real, no real;Intervención urgente requerida.;43;M
+308;Me siento completamente desesperado y sin esperanza de que las cosas mejoren.;Negativo;5;Depresión;Emocional;desesperado, sin esperanza, mejorar;Intervención urgente requerida.;44;F
+309;Estoy preocupado y ansioso por los problemas de salud de mi mascota.;Negativo;5;Ansiedad;Mascotas;preocupado, ansioso, problemas de salud;Intervención urgente requerida.;45;M
+310;Hoy fue un día de paz y tranquilidad en el retiro espiritual del monasterio.;Positivo;5;;Espiritualidad;paz, tranquilidad, retiro espiritual, monasterio;N/A;46;F
+311;Me siento emocionado y feliz por el nacimiento de mi primer hijo.;Positivo;5;;Familia;emocionado, feliz, nacimiento, primer hijo;N/A;47;M
+312;Estoy preocupado y estresado por los cambios en el entorno laboral y los posibles despidos.;Negativo;5;Ansiedad;Trabajo;preocupado, estresado, cambios, despidos;Intervención urgente requerida.;48;F
+313;Hoy fue un día de diversión y entretenimiento en el parque de atracciones.;Positivo;5;;Entretenimiento;diversión, entretenimiento, parque de atracciones;N/A;49;M
+314;Me siento feliz y satisfecho por haber completado un proyecto importante.;Positivo;5;;Trabajo;feliz, satisfecho, completado, proyecto;N/A;50;F
+315;Estoy preocupado y angustiado por los problemas de salud de un familiar cercano.;Negativo;5;Ansiedad;Salud;preocupado, angustiado, problemas de salud;Intervención urgente requerida.;51;M
+316;Hoy fue un día de paz y serenidad en la práctica de meditación.;Positivo;5;;Bienestar;paz, serenidad, meditación;N/A;52;F
+317;Me siento emocionado y nervioso por mi primer concierto como músico.;Mixto;5;;Música;emocionado, nervioso, primer concierto, músico;N/A;53;M
+318;Estoy frustrado y molesto por los problemas de comunicación en mi relación.;Negativo;5;;Relaciones;frustrado, molesto, problemas comunicación;Intervención urgente requerida.;54;F
+319;Hoy fue un día de relajación y desconexión en un retiro espiritual.;Positivo;5;;Espiritualidad;relajación, desconexión, retiro espiritual;N/A;55;M
+320;Me siento feliz y emocionado por el éxito de mi negocio después de años de esfuerzo.;Positivo;5;;Negocios;feliz, emocionado, éxito, negocio;N/A;56;F
+321;Estoy preocupado y ansioso por la incertidumbre del futuro laboral.;Negativo;5;Ansiedad;Empleo;preocupado, ansioso, incertidumbre, futuro laboral;Intervención urgente requerida.;57;M
+322;Hoy fue un día de alegría y celebración por el éxito de un proyecto en equipo.;Positivo;5;;Trabajo en Equipo;alegría, celebración, éxito, proyecto;N/A;58;F
+323;Me siento emocionado y feliz por el próximo viaje planeado con mi familia.;Positivo;5;;Viaje;emocionado, feliz, próximo viaje, familia;N/A;59;M
+324;Estoy preocupado y ansioso por los problemas de salud de mis padres mayores.;Negativo;5;Ansiedad;Familia;preocupado, ansioso, problemas de salud;Intervención urgente requerida.;60;F
+325;Hoy fue un día de realización personal al alcanzar un objetivo importante en mi carrera.;Positivo;5;;Carrera;realización, objetivo, importante, carrera;N/A;61;M
+326;Me siento feliz y agradecido por la vida y las oportunidades que tengo.;Positivo;5;;Agradecimiento;feliz, agradecido, vida, oportunidades;N/A;62;F
+327;Estoy emocionado y agradecido por el apoyo incondicional de mis amigos en momentos difíciles.;Positivo;5;;Amistad;emocionado, agradecido, apoyo incondicional, amigos;N/A;63;M
+328;Me siento tranquilo y en paz después de una sesión de yoga y meditación.;Positivo;5;;Bienestar;tranquilo, paz, yoga, meditación;N/A;64;F
+329;Estoy preocupado y estresado por los problemas financieros que enfrento actualmente.;Negativo;5;;Finanzas;preocupado, estresado, problemas financieros;Intervención urgente requerida.;65;M
+330;Hoy fue un día de amor y conexión en la celebración del aniversario con mi pareja.;Positivo;5;;Relaciones;amor, conexión, celebración, aniversario;N/A;66;F
+331;Me siento motivado y determinado a superar los desafíos que se presentan en mi vida.;Positivo;5;;Superación;motivado, determinado, superar, desafíos;N/A;67;M
+332;Estoy preocupado y ansioso por el bienestar de mi hijo adolescente que está pasando por una fase difícil.;Negativo;5;Ansiedad;Familia;preocupado, ansioso, bienestar, hijo adolescente;Intervención urgente requerida.;68;F
+333;Hoy fue un día de exploración y descubrimiento en un viaje improvisado a un lugar desconocido.;Positivo;5;;Viaje;exploración, descubrimiento, viaje, lugar desconocido;N/A;69;M
+334;Me siento feliz y orgulloso de mis logros personales y profesionales hasta ahora.;Positivo;5;;Logros;feliz, orgulloso, logros personales, profesionales;N/A;70;F
+335;Estoy preocupado y angustiado por la salud mental de un amigo cercano que ha estado actuando de manera extraña.;Negativo;5;Ansiedad;Salud Mental;preocupado, angustiado, salud mental, amigo cercano;Intervención urgente requerida.;71;M
+336;Hoy fue un día de risas y diversión en una reunión familiar llena de amor y compañerismo.;Positivo;5;;Familia;risas, diversión, reunión familiar, amor;N/A;72;F
+337;Me siento emocionado y agradecido por la oportunidad de viajar y explorar nuevos lugares.;Positivo;5;;Viaje;emocionado, agradecido, viajar, explorar;N/A;73;M
+338;Estoy preocupado y estresado por los conflictos interpersonales en el lugar de trabajo que están afectando mi desempeño.;Negativo;5;Ansiedad;Trabajo;preocupado, estresado, conflictos interpersonales, desempeño;Intervención urgente requerida.;74;F
+339;Me siento feliz y realizado después de ayudar a una organización benéfica en su labor altruista.;Positivo;5;;Solidaridad;feliz, realizado, organización benéfica, labor altruista;N/A;75;M
+340;Estoy preocupado y angustiado por la situación política y social en mi país que parece empeorar cada día.;Negativo;5;Ansiedad;Política;preocupado, angustiado, situación política, país;Intervención urgente requerida.;76;F
+341;Hoy fue un día de creatividad y expresión en una clase de arte que me permitió liberar tensiones.;Positivo;5;;Creatividad;creatividad, expresión, clase de arte, liberar tensiones;N/A;77;M
+342;Me siento emocionado y nervioso por el próximo viaje de mochilero que planeo con mis amigos.;Mixto;5;;Viaje;emocionado, nervioso, próximo viaje, mochilero;N/A;78;F
+343;Estoy preocupado y ansioso por el estado de mi relación sentimental que parece estar en problemas.;Negativo;5;Ansiedad;Relaciones;preocupado, ansioso, relación sentimental, problemas;Intervención urgente requerida.;79;M
+344;Me siento feliz y agradecido por el amor y el apoyo incondicional de mi mascota durante momentos difíciles.;Positivo;5;;Mascotas;feliz, agradecido, amor, apoyo incondicional;N/A;80;F
+345;Estoy preocupado y angustiado por la situación económica global que afecta mi seguridad financiera personal.;Negativo;5;Ansiedad;Economía;preocupado, angustiado, situación económica, seguridad financiera;Intervención urgente requerida.;81;M
+346;Hoy fue un día de reencuentro y conexión con amigos de la infancia que no veía desde hace años.;Positivo;5;;Amistad;reencuentro, conexión, amigos, infancia;N/A;82;F
+347;Me siento emocionado y esperanzado por las oportunidades de crecimiento profesional que se presentan en mi carrera.;Positivo;5;;Estudios;emocinado, esperanzado, crecimiento;N/A;31;F
+347;Estoy emocionado y esperanzado por las oportunidades de crecimiento profesional que se presentan en mi carrera.;Positivo;5;;Carrera;emocionado, esperanzado, crecimiento profesional, carrera;N/A;12;M
+348;Me siento abrumado por la tristeza y la soledad que siento desde la pérdida de un ser querido.;Negativo;5;Duelo;Emocional;abrumado, tristeza, soledad, pérdida;Intervención urgente requerida.;15;F
+349;Hoy fue un día de éxtasis y alegría al recibir la noticia de que voy a ser padre por primera vez.;Positivo;5;;Familia;éxtasis, alegría, noticia, padre;N/A;85;M
+350;Me siento ansioso y preocupado por el futuro incierto que se avecina debido a los cambios políticos en mi país.;Negativo;5;Ansiedad;Política;ansioso, preocupado, futuro incierto, cambios políticos;Intervención urgente requerida.;86;F
+351;Estoy experimentando un profundo sentimiento de gratitud y conexión con el universo después de una sesión de meditación.;Positivo;5;;Espiritualidad;gratitud, conexión, universo, meditación;N/A;87;M
+352;Hoy fue un día de emoción y euforia al lograr una meta importante que me propuse hace mucho tiempo.;Positivo;5;;Logros;emoción, euforia, lograr, meta importante;N/A;88;F
+353;Me siento agobiado por la ansiedad y el estrés que provoca la presión de cumplir con las expectativas laborales.;Negativo;5;Trastorno de Ansiedad Generalizada;Trabajo;agobiado, ansiedad, estrés, expectativas laborales;Intervención urgente requerida.;89;M
+354;Estoy lleno de amor y gratitud por la amistad incondicional y el apoyo de mi perro durante momentos difíciles.;Positivo;5;;Mascotas;amor, gratitud, amistad incondicional, apoyo;N/A;90;F
+355;Hoy fue un día de inspiración y creatividad al explorar un nuevo pasatiempo artístico.;Positivo;5;;Creatividad;inspiración, creatividad, explorar, pasatiempo artístico;N/A;91;M
+356;Me siento abrumado por la culpa y el remordimiento después de cometer un error grave en el trabajo.;Negativo;5;Culpa;Trabajo;abrumado, culpa, remordimiento, error grave;Intervención urgente requerida.;34;F
+357;Estoy emocionado y nervioso por la oportunidad de viajar al extranjero y sumergirme en una nueva cultura.;Mixto;5;;Viaje;emocionado, nervioso, oportunidad, viajar;N/A;35;M
+358;Hoy fue un día de gratitud y amor al pasar tiempo de calidad con mi familia y amigos cercanos.;Positivo;5;;Familia;gratitud, amor, tiempo de calidad, familia;N/A;36;F
+359;Me siento abrumado por la preocupación y la incertidumbre sobre el futuro de mi salud después de un diagnóstico médico preocupante.;Negativo;5;Ansiedad;Salud;abrumado, preocupación, incertidumbre, futuro salud;Intervención urgente requerida.;56;M
+360;Estoy lleno de felicidad y emoción al presenciar el matrimonio de mi mejor amigo y su pareja.;Positivo;5;;Amistad;felicidad, emoción, matrimonio, mejor amigo;N/A;31;F
+361;Hoy fue un día de calma y serenidad al pasar tiempo en la naturaleza y disfrutar de la tranquilidad del bosque.;Positivo;5;;Naturaleza;calma, serenidad, naturaleza, tranquilidad;N/A;21;M
+362;Me siento devastado por la pérdida de mi trabajo y me preocupa cómo mantener a mi familia.;Negativo;5;Desempleo;Trabajo;devastado, pérdida, preocupación, mantener familia;Intervención urgente requerida.;24;F
+363;Estoy emocionado y agradecido por la oportunidad de ayudar a una organización benéfica en su labor altruista.;Positivo;5;;Solidaridad;emocionado, agradecido, oportunidad, labor altruista;N/A;24;M
+364;Hoy fue un día de risas y alegría al reunirme con amigos de la infancia y recordar viejos tiempos.;Positivo;5;;Amistad;risas, alegría, reunión, amigos de la infancia;N/A;23;F
+365;Me siento agotado y desesperado por la falta de sueño y la sobrecarga de trabajo en mi vida.;Negativo;5;Insomnio;Trabajo;agotado, desesperado, falta de sueño, sobrecarga;Intervención urgente requerida.;26;M
+366;Estoy lleno de esperanza;Positivo;5;;Personal;lleno, esperanza;N/A;56;F
+367;Me siento atemorizado y ansioso ante la idea de hablar en público frente a una multitud.;Negativo;5;Fobia Social;Trabajo;atemorizado, ansioso, hablar en público, multitud;Intervención urgente requerida.;42;M
+368;Hoy fue un día de nostalgia y melancolía al recordar momentos felices de la infancia.;Negativo;5;;Recuerdos;nostalgia, melancolía, recordar, infancia;N/A;18;F
+369;Estoy lleno de alegría y gratitud por el apoyo incondicional de mi comunidad durante tiempos difíciles.;Positivo;5;;Comunidad;alegría, gratitud, apoyo incondicional, comunidad;N/A;25;M
+370;Me siento abrumado por la responsabilidad y el estrés de cuidar a un familiar enfermo.;Negativo;5;;Familia;abrumado, responsabilidad, estrés, cuidar;Intervención urgente requerida.;26;F
+371;Hoy fue un día de inspiración y creatividad al explorar nuevas técnicas en mi pasatiempo favorito.;Positivo;5;;Creatividad;inspiración, creatividad, explorar, pasatiempo;N/A;27;M
+372;Me siento esperanzado y motivado después de recibir elogios por mi desempeño en el trabajo.;Positivo;5;;Trabajo;esperanzado, motivado, elogios, desempeño;N/A;28;F
+373;Estoy angustiado y deprimido por la sensación de no tener un propósito significativo en la vida.;Negativo;5;Depresión;Existencial;angustiado, deprimido, propósito, significativo;Intervención urgente requerida.;19;M
+374;Hoy fue un día de satisfacción y logros al alcanzar metas personales que me propuse.;Positivo;5;;Logros;satisfacción, logros, metas personales;N/A;31;F
+375;Me siento abrumado por la ansiedad y el pánico ante la idea de enfrentar una situación social difícil.;Negativo;5;Trastorno de Ansiedad Social;Social;abrumado, ansiedad, pánico, situación social;Intervención urgente requerida.;32;M
+376;Estoy lleno de emoción y gratitud al presenciar el nacimiento de mi primer nieto.;Positivo;5;;Familia;emoción, gratitud, nacimiento, primer nieto;N/A;33;F
+377;Me siento agotado y desesperado por la falta de sueño y la presión constante en el trabajo.;Negativo;5;Insomnio;Trabajo;agotado, desesperado, falta de sueño, presión;Intervención urgente requerida.;34;M
+378;Hoy fue un día de amor y conexión en la celebración del aniversario con mi pareja.;Positivo;5;;Relaciones;amor, conexión, celebración, aniversario;N/A;35;F
+379;Me siento ansioso y preocupado por los problemas financieros que enfrento actualmente.;Negativo;5;;Finanzas;ansioso, preocupado, problemas financieros;Intervención urgente requerida.;36;M
+380;Estoy lleno de esperanza y determinación para superar los obstáculos que se presentan en mi camino.;Positivo;5;;Superación;esperanza, determinación, superar, obstáculos;N/A;37;F
+381;Me siento devastado y abrumado por la pérdida de un ser querido en un trágico accidente.;Negativo;5;Duelo;Pérdida;devastado, abrumado, pérdida, trágico accidente;Intervención urgente requerida.;21;M
+382;Hoy fue un día de paz y serenidad en la práctica de meditación.;Positivo;5;;Bienestar;paz, serenidad, meditación;N/A;22;F
+383;Me siento ansioso y preocupado por el bienestar de mi mascota que ha estado mostrando signos de enfermedad.;Negativo;5;;Mascotas;ansioso, preocupado, bienestar, mascota;Intervención urgente requerida.;22;M
+384;Estoy lleno de emoción y alegría al recibir una promoción laboral después de años de arduo trabajo.;Positivo;5;;Trabajo;emoción, alegría, promoción laboral, arduo trabajo;N/A;22;F
+385;Me siento abrumado por la tristeza y la soledad que siento desde la pérdida de un ser querido.;Negativo;5;Duelo;Emocional;abrumado, tristeza, soledad, pérdida;Intervención urgente requerida.;23;M
+386;Me siento ansioso y preocupado por el estado de salud de un familiar cercano que está hospitalizado.;Negativo;5;;Salud;ansioso, preocupado, estado de salud, familiar hospitalizado;Intervención urgente requerida.;24;M
+387;Hoy fue un día de risas y diversión en una reunión con amigos que no veía desde hace mucho tiempo.;Positivo;5;;Amistad;risas, diversión, reunión, amigos;N/A;25;F
+388;Estoy lleno de orgullo y emoción al ver a mi hijo graduarse con honores de la universidad.;Positivo;5;;Educación;orgullo, emoción, graduarse con honores;N/A;26;M
+389;Me siento abrumado y estresado por las demandas y responsabilidades en el trabajo y en casa.;Negativo;5;Estrés;Trabajo;abrumado, estresado, demandas, responsabilidades;Intervención urgente requerida.;22;F
+390;Hoy fue un día de reflexión y contemplación en la naturaleza, buscando paz interior y claridad mental.;Positivo;5;;Bienestar;reflexión, contemplación, naturaleza, paz interior;N/A;22;M
+391;Me siento angustiado y desesperado por la falta de sentido y propósito en mi vida.;Negativo;5;Vacío Existencial;Existencial;angustiado, desesperado, falta de sentido, propósito;Intervención urgente requerida.;21;F
+392;Estoy lleno de alegría y gratitud por las pequeñas cosas de la vida, como el sol brillando en un día soleado.;Positivo;5;;Gratitud;alegría, gratitud, pequeñas cosas, día soleado;N/A;15;M
+393;Me siento abrumado y agobiado por la presión de cumplir con las expectativas sociales y laborales.;Negativo;5;;Expectativas;abrumado, agobiado, presión, expectativas;Intervención urgente requerida.;16;F
+394;Hoy fue un día de amor y complicidad en la celebración del aniversario con mi pareja.;Positivo;5;;Relaciones;amor, complicidad, celebración, aniversario;N/A;25;M
+395;Me siento preocupado y ansioso por el futuro incierto que se presenta debido a los cambios políticos en mi país.;Negativo;5;Ansiedad;Política;preocupado, ansioso, futuro incierto, cambios políticos;Intervención urgente requerida.;23;F
+396;Estoy lleno de energía y entusiasmo al comenzar un nuevo proyecto creativo que me apasiona.;Positivo;5;;Creatividad;energía, entusiasmo, nuevo proyecto, pasión;N/A;24;M
+397;Me siento abatido y desesperanzado por la sensación de estar estancado en la vida y no ver un futuro claro.;Negativo;5;Desesperanza;Existencial;abatido, desesperanzado, estancado, futuro;Intervención urgente requerida.;32;F
+398;Hoy fue un día de alegría y celebración al recibir la noticia del embarazo de mi pareja.;Positivo;5;;Familia;alegría, celebración, embarazo, pareja;N/A;23;M
+399;Me siento ansioso y preocupado por los problemas de salud que enfrenta un ser querido.;Negativo;5;;Salud;ansioso, preocupado, problemas de salud;Intervención urgente requerida.;24;F
+400;Estoy lleno de gratitud y amor por la oportunidad de vivir otro día y disfrutar de las pequeñas bendiciones de la vida.;Positivo;5;;Gratitud;gratitud, amor, oportunidad, pequeñas bendiciones;N/A;25;M
+401;Me siento optimista y lleno de esperanza ante las oportunidades que el futuro me depara.;Positivo;5;;Futuro;optimista, esperanza, futuro, oportunidades;N/A;26;F
+402;Hoy fue un día de confusión y desorientación al recibir noticias impactantes que cambiaron mi perspectiva.;Negativo;5;Confusión;Cambios;confusión, desorientación, noticias impactantes, perspectiva cambiada;Intervención urgente requerida.;21;M
+403;Estoy lleno de emoción y alegría al cumplir un sueño de toda la vida y viajar a mi destino soñado.;Positivo;5;;Viaje;emoción, alegría, cumplir sueño, destino soñado;N/A;20;F
+404;Me siento angustiado y preocupado por la incertidumbre económica que afecta mi estabilidad financiera.;Negativo;5;Ansiedad;Economía;angustiado, preocupado, incertidumbre económica, estabilidad financiera;Intervención urgente requerida.;23;M
+405;Hoy fue un día de conexión y amor al pasar tiempo de calidad con mi mascota, disfrutando de su compañía.;Positivo;5;;Mascotas;conexión, amor, calidad, mascota, compañía;N/A;24;F
+406;Me siento agotado y desmotivado por la rutina diaria y la falta de sentido en mi trabajo.;Negativo;5;Desmotivación;Trabajo;agotado, desmotivado, rutina diaria, falta de sentido;Intervención urgente requerida.;23;M
+407;Estoy lleno de gratitud y admiración por las personas que me rodean y que me apoyan en momentos difíciles.;Positivo;5;;Apoyo;gratitud, admiración, personas, apoyo;N/A;23;F
+408;Me siento ansioso y estresado por la presión de las responsabilidades financieras y el temor al fracaso.;Negativo;5;Ansiedad;Finanzas;ansioso, estresado, presión, responsabilidades financieras;Intervención urgente requerida.;22;M
+409;Hoy fue un día de celebración y júbilo al alcanzar un hito importante en mi carrera profesional.;Positivo;5;;Carrera;celebración, júbilo, hito importante, carrera profesional;N/A;21;F
+410;Me siento abrumado y desesperado por la sensación de estar atrapado en una situación sin salida.;Negativo;5;Desesperanza;Crisis;abrumado, desesperado, atrapado, situación sin salida;Intervención urgente requerida.;22;M
+411;Estoy lleno de esperanza y optimismo ante la idea de empezar de nuevo y reinventarme en una nueva etapa de mi vida.;Positivo;5;;Reinicio;esperanza, optimismo, empezar de nuevo, reinventarme;N/A;22;F
+412;Me siento ansioso y preocupado por el estado de mi salud física después de experimentar síntomas preocupantes.;Negativo;5;Ansiedad;Salud;ansioso, preocupado, salud física, síntomas preocupantes;Intervención urgente requerida.;21;M
+413;Hoy fue un día de conexión y armonía al pasar tiempo en la naturaleza, sintiendo la energía del entorno.;Positivo;5;;Naturaleza;conexión, armonía, naturaleza, energía;N/A;25;F
+414;Me siento abatido y desanimado por la sensación de estar estancado en la vida y no ver un camino claro hacia adelante.;Negativo;5;Desesperanza;Existencial;abatido, desanimado, estancado, camino claro;Intervención urgente requerida.;26;M
+415;Estoy lleno de felicidad y gratitud por las pequeñas victorias diarias que me acercan a mis metas.;Positivo;5;;Logros;felicidad, gratitud, pequeñas victorias, metas;N/A;27;F
+416;Me siento agobiado y estresado por la carga de trabajo y las expectativas laborales poco realistas.;Negativo;5;Estrés;Trabajo;agobiado, estresado, carga de trabajo, expectativas laborales;Intervención urgente requerida.;26;M
+417;Hoy fue un día de celebración y alegría al recibir buenas noticias sobre la salud de un ser querido.;Positivo;5;;Salud;celebración, alegría, buenas noticias, salud;N/A;22;F
+418;Me siento ansioso y preocupado por el futuro incierto que se avecina debido a los cambios económicos en el país.;Negativo;5;Ansiedad;Economía;ansioso, preocupado, futuro incierto, cambios económicos;Intervención urgente requerida.;24;M
+419;Estoy lleno de emoción y gratitud por las nuevas oportunidades que se presentan en mi vida personal y profesional.;Positivo;5;;Oportunidades;emoción, gratitud, nuevas oportunidades, vida personal y profesional;N/A;25;F
+420;Me siento ansioso y abrumado por la presión de las expectativas sociales y el miedo al rechazo.;Negativo;5;Ansiedad;Social;ansioso, abrumado, expectativas sociales, miedo al rechazo;Intervención urgente requerida.;26;M
+421;Hoy fue un día de paz y serenidad al practicar la meditación y conectar con mi interior.;Positivo;5;;Bienestar;paz, serenidad, meditación, conectar;N/A;23;F
+422;Estoy lleno de esperanza y optimismo ante la idea de un futuro brillante y lleno de posibilidades.;Positivo;5;;Futuro;esperanza, optimismo, futuro brillante, posibilidades;N/A;24;M
+423;Me siento abatido y desmotivado por la sensación de estar estancado en la vida y no ver un camino claro hacia adelante.;Negativo;5;Desmotivación;Existencial;abatido, desmotivado, estancado, camino claro;Intervención urgente requerida.;25;F
+424;Hoy fue un día de alegría y celebración al alcanzar una meta importante que me propuse.;Positivo;5;;Logros;alegría, celebración, alcanzar meta, propósito;N/A;26;M
+425;Me siento agobiado y estresado por la presión de cumplir con las expectativas laborales y familiares.;Negativo;5;Estrés;Trabajo;agobiado, estresado, presión, expectativas laborales y familiares;Intervención urgente requerida.;27;F
+426;Estoy lleno de gratitud y amor por las personas que me rodean y que me apoyan en momentos difíciles.;Positivo;5;;Apoyo;gratitud, amor, apoyo, momentos difíciles;N/A;22;M
+427;Me siento ansioso y preocupado por el estado de salud de un ser querido que está atravesando una enfermedad grave.;Negativo;5;Preocupación por la Salud;Salud;ansioso, preocupado, salud de un ser querido, enfermedad grave;Intervención urgente requerida.;21;F
+428;Hoy fue un día de conexión y armonía al pasar tiempo con mi familia, compartiendo risas y experiencias.;Positivo;5;;Familia;conexión, armonía, familia, risas;N/A;23;M
+429;Me siento abrumado y desesperado por la sensación de no tener control sobre mi vida y mi futuro.;Negativo;5;Desesperanza;Control;abrumado, desesperado, falta de control, futuro;Intervención urgente requerida.;24;F
+430;Estoy lleno de energía y entusiasmo al embarcarme en una nueva aventura personal llena de posibilidades.;Positivo;5;;Aventura;energía, entusiasmo, nueva aventura, posibilidades;N/A;25;M
+431;Me siento ansioso y preocupado por el impacto económico de la situación actual en mi estabilidad financiera.;Negativo;5;Ansiedad;Economía;ansioso, preocupado, impacto económico, estabilidad financiera;Intervención urgente requerida.;26;F
+432;Hoy fue un día de inspiración y creatividad al explorar nuevas formas de expresión artística.;Positivo;5;;Creatividad;inspiración, creatividad, explorar, expresión artística;N/A;22;M
+433;Me siento desanimado y desesperado por la falta de dirección y propósito en mi vida.;Negativo;5;Desesperanza;Existencial;desanimado, desesperado, falta de dirección, propósito;Intervención urgente requerida.;23;F
+434;Estoy lleno de gratitud y amor por las pequeñas alegrías y bendiciones que la vida me ofrece cada día.;Positivo;5;;Gratitud;gratitud, amor, alegrías, bendiciones;N/A;24;M
+435;Me siento ansioso y preocupado por el futuro incierto que se presenta debido a los cambios políticos en mi país.;Negativo;5;Ansiedad;Política;ansioso, preocupado, futuro incierto, cambios políticos;Intervención urgente requerida.;23;F
+436;Hoy fue un día de satisfacción y realización al alcanzar un objetivo importante que me propuse.;Positivo;5;;Logros;satisfacción, realización, alcanzar objetivo;N/A;25;M
+437;Me siento abrumado y estresado por la cantidad de responsabilidades y tareas pendientes en el trabajo y en casa.;Negativo;5;Estrés;Trabajo;abrumado, estresado, responsabilidades, tareas pendientes;Intervención urgente requerida.;23;F
+438;Estoy lleno de esperanza y optimismo ante la idea de un futuro lleno de amor, éxito y realización personal.;Positivo;5;;Futuro;esperanza, optimismo, futuro, amor, éxito;N/A;25;M
+439;Estoy lleno de alegría y emoción al recibir una buena noticia que cambia mi vida para mejor.;Positivo;5;;Cambio;alegría, emoción, buena noticia, cambio;N/A;23;F
+440;Me siento desanimado y sin motivación para enfrentar los desafíos diarios que se presentan en mi vida.;Negativo;5;Desmotivación;Existencial;desanimado, sin motivación, desafíos diarios;Intervención urgente requerida.;24;M
+441;Hoy fue un día de amor y conexión al pasar tiempo con mi pareja, fortaleciendo nuestros lazos afectivos.;Positivo;5;;Relaciones;amor, conexión, pareja, lazos afectivos;N/A;23;F
+442;Me siento ansioso y preocupado por el futuro incierto que se avecina debido a los cambios en mi entorno laboral.;Negativo;5;Ansiedad;Trabajo;ansioso, preocupado, futuro incierto, cambios laborales;Intervención urgente requerida.;24;M
+443;Estoy lleno de gratitud y aprecio por las personas que me rodean y que me brindan su apoyo incondicional.;Positivo;5;;Apoyo;gratitud, aprecio, personas, apoyo;N/A;23;F
+444;Me siento abrumado y estresado por la presión de cumplir con las expectativas sociales y laborales que me rodean.;Negativo;5;Estrés;Expectativas;abrumado, estresado, presión, expectativas;Intervención urgente requerida.;24;M
+445;Hoy fue un día de paz y tranquilidad al desconectar del mundo exterior y dedicar tiempo a cuidar de mí mismo.;Positivo;5;;Bienestar;paz, tranquilidad, desconectar, cuidado personal;N/A;23;F
+446;Me siento angustiado y preocupado por la situación económica que afecta mi estabilidad financiera y bienestar.;Negativo;5;Preocupación por la Salud Mental;Economía;angustiado, preocupado, situación económica, estabilidad financiera;Intervención urgente requerida.;183;M
+447;Estoy lleno de entusiasmo y determinación para enfrentar los desafíos que se presentan en mi camino hacia el éxito.;Positivo;5;;Superación;entusiasmo, determinación, desafíos, camino al éxito;N/A;23;F
+448;Me siento desanimado y sin esperanza ante la sensación de estar atrapado en una rutina que no me satisface.;Negativo;5;Desesperanza;Rutina;desanimado, sin esperanza, atrapado, rutina;Intervención urgente requerida.;23;M
+449;Hoy fue un día de felicidad y celebración al alcanzar un hito importante en mi vida personal o profesional.;Positivo;5;;Logros;felicidad, celebración, hito importante, vida personal o profesional;N/A;23;F
+450;Me siento ansioso y preocupado por el estado de salud de un ser querido que está atravesando una enfermedad grave.;Negativo;5;Preocupación por la Salud;Salud;ansioso, preocupado, estado de salud, enfermedad grave;Intervención urgente requerida.;22;M
+451;Estoy lleno de gratitud y aprecio por las pequeñas cosas de la vida que traen alegría y felicidad a mi día a día.;Positivo;5;;Gratitud;gratitud, aprecio, pequeñas cosas, alegría;N/A;33;F
+452;Me siento abrumado y estresado por la cantidad de responsabilidades y compromisos que debo cumplir en mi día a día.;Negativo;5;Estrés;Compromisos;abrumado, estresado, responsabilidades, compromisos;Intervención urgente requerida.;22;M
+453;Hoy fue un día de conexión y amor al pasar tiempo con mis seres queridos, fortaleciendo nuestros vínculos familiares.;Positivo;5;;Familia;conexión, amor, seres queridos, vínculos familiares;N/A;33;F
+454;Me siento ansioso y preocupado por el futuro incierto que se presenta debido a los cambios en el ámbito laboral.;Negativo;5;Ansiedad;Trabajo;ansioso, preocupado, futuro incierto, cambios laborales;Intervención urgente requerida.;22;M
+455;Estoy lleno de gratitud y alegría por las oportunidades que la vida me brinda para crecer y aprender cada día.;Positivo;5;;Crecimiento;gratitud, alegría, oportunidades, crecimiento;N/A;33;F
+456;Me siento abatido y desmotivado por la sensación de estar estancado en la vida y no ver un camino claro hacia adelante.;Negativo;5;Desmotivación;Existencial;abatido, desmotivado, estancado, camino claro;Intervención urgente requerida.;55;M
+457;Hoy fue un día de felicidad y realización al lograr superar un obstáculo importante que se presentaba en mi camino.;Positivo;5;;Logros;felicidad, realización, obstáculo, camino;N/A;194;F
+458;Me siento agobiado y estresado por la presión de cumplir con las expectativas sociales y laborales que me rodean.;Negativo;5;Estrés;Expectativas;agobiado, estresado, presión, expectativas;Intervención urgente requerida.;44;M
+459;Estoy lleno de esperanza y optimismo ante la idea de un futuro brillante y lleno de posibilidades.;Positivo;5;;Futuro;esperanza, optimismo, futuro, posibilidades;N/A;55;F
+460;Me siento desanimado y sin motivación para enfrentar los desafíos diarios que se presentan en mi vida.;Negativo;5;Desmotivación;Desafíos;desanimado, sin motivación, desafíos, vida;Intervención urgente requerida.;66;M
+461;Hoy fue un día de amor y conexión al pasar tiempo con mis seres queridos, fortaleciendo nuestros lazos afectivos.;Positivo;5;;Relaciones;amor, conexión, seres queridos, lazos afectivos;N/A;198;F
+462;Me siento ansioso y preocupado por el futuro incierto que se avecina debido a los cambios en el ámbito laboral.;Negativo;5;Ansiedad;Laboral;ansioso, preocupado, futuro incierto, cambios;Intervención urgente requerida.;55;M
+463;Estoy lleno de gratitud y aprecio por las personas que me rodean y que me brindan su apoyo incondicional.;Positivo;5;;Apoyo;gratitud, aprecio, personas, apoyo;N/A;44;F
+464;Me siento abrumado y estresado por la presión de cumplir con las expectativas sociales y laborales que me rodean.;Negativo;5;Estrés;Expectativas;abrumado, estresado, presión, expectativas;Intervención urgente requerida.;33;M
+465;Hoy fue un día de paz y tranquilidad al desconectar del mundo exterior y dedicar tiempo a cuidar de mí mismo.;Positivo;5;;Bienestar;paz, tranquilidad, desconectar, cuidado personal;N/A;23;F
+466;Me siento angustiado y preocupado por la situación económica que afecta mi estabilidad financiera y bienestar.;Negativo;5;Preocupación por la Salud Mental;Economía;angustiado, preocupado, situación económica, estabilidad financiera;Intervención urgente requerida.;23;M
+467;Estoy lleno de entusiasmo y determinación para enfrentar los desafíos que se presentan en mi camino hacia el éxito.;Positivo;5;;Superación;entusiasmo, determinación, desafíos, éxito;N/A;43;F
+468;Me siento desanimado y sin esperanza ante la sensación de estar atrapado en una rutina que no me satisface.;Negativo;5;Desesperanza;Rutina;desanimado, sin esperanza, atrapado, rutina;Intervención urgente requerida.;21;M
+469;Hoy fue un día de felicidad y realización al lograr superar un obstáculo importante que se presentaba en mi camino.;Positivo;5;;Logros;felicidad, realización, obstáculo, camino;N/A;22;F
+470;Me siento agobiado y estresado por la presión de cumplir con las expectativas sociales y laborales que me rodean.;Negativo;5;Estrés;Expectativas;agobiado, estresado, presión, expectativas;Intervención urgente requerida.;23;M
+471;Estoy lleno de esperanza y optimismo ante la idea de un futuro brillante y lleno de posibilidades.;Positivo;5;;Futuro;esperanza, optimismo, futuro, posibilidades;N/A;24;F
+472;Me siento desanimado y sin motivación para enfrentar los desafíos diarios que se presentan en mi vida.;Negativo;5;Desmotivación;Desafíos;desanimado, sin motivación, desafíos, vida;Intervención urgente requerida.;25;M
+473;Hoy fue un día de amor y conexión al pasar tiempo con mis seres queridos, fortaleciendo nuestros lazos afectivos.;Positivo;5;;Relaciones;amor, conexión, seres queridos, lazos afectivos;N/A;23;F
+474;Me siento ansioso y preocupado por el futuro incierto que se avecina debido a los cambios en el ámbito laboral.;Negativo;5;Ansiedad;Laboral;ansioso, preocupado, futuro incierto, cambios;Intervención urgente requerida.;24;M
+475;Estoy lleno de gratitud y aprecio por las personas que me rodean y que me brindan su apoyo incondicional.;Positivo;5;;Apoyo;gratitud, aprecio, personas, apoyo;N/A;16;F
+476;Me siento abrumado y estresado por la presión de cumplir con las expectativas sociales y laborales que me rodean.;Negativo;5;Estrés;Expectativas;abrumado, estresado, presión, expectativas;Intervención urgente requerida.;29;M
+477;Hoy fue un día de paz y tranquilidad al desconectar del mundo exterior y dedicar tiempo a cuidar de mí mismo.;Positivo;5;;Bienestar;paz, tranquilidad, desconectar, cuidado personal;N/A;38;F
+478;Me siento angustiado y preocupado por la situación económica que afecta mi estabilidad financiera y bienestar.;Negativo;5;Preocupación por la Salud Mental;Economía;angustiado, preocupado, situación económica, estabilidad financiera;Intervención urgente requerida.;47;M
+479;Estoy lleno de entusiasmo y determinación para enfrentar los desafíos que se presentan en mi camino hacia el éxito.;Positivo;5;;Superación;entusiasmo, determinación, desafíos, éxito;N/A;56;F
+480;Me siento desanimado y sin esperanza ante la sensación de estar atrapado en una rutina que no me satisface.;Negativo;5;Desesperanza;Rutina;desanimado, sin esperanza, atrapado, rutina;Intervención urgente requerida.;65;M
+481;Hoy fue un día de felicidad y realización al lograr superar un obstáculo importante que se presentaba en mi camino.;Positivo;5;;Logros;felicidad, realización, obstáculo, camino;N/A;74;F
+482;Me siento agobiado y estresado por la presión de cumplir con las expectativas sociales y laborales que me rodean.;Negativo;5;Estrés;Expectativas;agobiado, estresado, presión, expectativas;Intervención urgente requerida.;83;M
+483;Estoy lleno de esperanza y optimismo ante la idea de un futuro brillante y lleno de posibilidades.;Positivo;5;;Futuro;esperanza, optimismo, futuro, posibilidades;N/A;92;F
+484;Me siento desanimado y sin motivación para enfrentar los desafíos diarios que se presentan en mi vida.;Negativo;5;Desmotivación;Desafíos;desanimado, sin motivación, desafíos, vida;Intervención urgente requerida.;101;M
+485;Hoy fue un día de amor y conexión al pasar tiempo con mis seres queridos, fortaleciendo nuestros lazos afectivos.;Positivo;5;;Relaciones;amor, conexión, seres queridos, lazos afectivos;N/A;110;F
+486;Me siento ansioso y preocupado por el futuro incierto que se avecina debido a los cambios en el ámbito laboral.;Negativo;5;Ansiedad;Laboral;ansioso, preocupado, futuro incierto, cambios;Intervención urgente requerida.;119;M
+487;Estoy lleno de gratitud y aprecio por las personas que me rodean y que me brindan su apoyo incondicional.;Positivo;5;;Apoyo;gratitud, aprecio, personas, apoyo;N/A;128;F
+488;Me siento abrumado y estresado por la presión de cumplir con las expectativas sociales y laborales que me rodean.;Negativo;5;Estrés;Expectativas;abrumado, estresado, presión, expectativas;Intervención urgente requerida.;137;M
+489;Hoy fue un día de paz y tranquilidad al desconectar del mundo exterior y dedicar tiempo a cuidar de mí mismo.;Positivo;5;;Bienestar;paz, tranquilidad, desconectar, cuidado personal;N/A;146;F
+490;Me siento angustiado y preocupado por la situación económica que afecta mi estabilidad financiera y bienestar.;Negativo;5;Preocupación por la Salud Mental;Economía;angustiado, preocupado, situación económica, estabilidad financiera;Intervención urgente requerida.;155;M
+491;Estoy lleno de entusiasmo y determinación para enfrentar los desafíos que se presentan en mi camino hacia el éxito.;Positivo;5;;Superación;entusiasmo, determinación, desafíos, éxito;N/A;164;F
+492;Me siento desanimado y sin esperanza ante la sensación de estar atrapado en una rutina que no me satisface.;Negativo;5;Desesperanza;Rutina;desanimado, sin esperanza, atrapado, rutina;Intervención urgente requerida.;29;M
+493;Hoy fue un día de felicidad y realización al lograr superar un obstáculo importante que se presentaba en mi camino.;Positivo;5;;Logros;felicidad, realización, obstáculo, camino;N/A;30;F
+494;Me siento abrumado y estresado por la presión de cumplir con las expectativas sociales y laborales que me rodean.;Negativo;5;Estrés;Expectativas;abrumado, estresado, presión, expectativas;Intervención urgente requerida.;24;M
+495;Estoy lleno de esperanza y optimismo ante la idea de un futuro brillante y lleno de posibilidades.;Positivo;5;;Futuro;esperanza, optimismo, futuro, posibilidades;N/A;27;F
+496;Me siento desanimado y sin motivación para enfrentar los desafíos diarios que se presentan en mi vida.;Negativo;5;Desmotivación;Desafíos;desanimado, sin motivación, desafíos, vida;Intervención urgente requerida.;25;M
+497;Hoy fue un día de amor y conexión al pasar tiempo con mis seres queridos, fortaleciendo nuestros lazos afectivos.;Positivo;5;;Relaciones;amor, conexión, seres queridos, lazos afectivos;N/A;28;F
+498;Me siento ansioso y preocupado por el futuro incierto que se avecina debido a los cambios en el ámbito laboral.;Negativo;5;Ansiedad;Laboral;ansioso, preocupado, futuro incierto, cambios;Intervención urgente requerida.;26;M
+499;Estoy lleno de gratitud y aprecio por las personas que me rodean y que me brindan su apoyo incondicional.;Positivo;5;;Apoyo;gratitud, aprecio, personas, apoyo;N/A;29;F
+500;Me siento abrumado y estresado por la presión de cumplir con las expectativas sociales y laborales que me rodean.;Negativo;5;Estrés;Expectativas;abrumado, estresado, presión, expectativas;Intervención urgente requerida.;;M
