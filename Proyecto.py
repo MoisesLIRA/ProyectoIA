@@ -13,23 +13,17 @@ from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_sc
 nltk.download('stopwords')
 nltk.download('punkt')
 
+
+# Configurar para mostrar todas las columnas
+pd.set_option('display.max_columns', None)
+
 # Lee el archivo CSV y carga los datos en un DataFrame de pandas
 DataFrame = pd.read_csv('datasetIA.csv', sep=';')
+
+# Visualizar las primeras filas del dataset para comprender su estructura
 print(DataFrame.head())
 
-
-# Obtener las columnas que tienen información
-columnas_con_info = [columna for columna in DataFrame.columns if DataFrame[columna].notna().any()]
-
-# Imprimir las columnas con información
-print("Columnas con información:")
-for columna in columnas_con_info:
-    print(f"- {columna}")
-    print(DataFrame[columna].sample(3)) 
-    print()
+# Obtenemos la información sobre las columnas y tipos de datos
+print(DataFrame.info())
 
 
-# Obtener estadísticas descriptivas
-print("Estadísticas descriptivas:")
-print(DataFrame.describe())
-print("\n")
