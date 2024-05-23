@@ -26,4 +26,20 @@ print(DataFrame.head())
 # Obtenemos la información sobre las columnas y tipos de datos
 print(DataFrame.info())
 
+import re
+def preprocesamientoTexto(texto):
+    # Eliminar caracteres especiales
+    texto = re.sub(r'[^a-zA-Z0-9\s]', '', texto)
 
+    # Convertir a minúsculas y tokenizar
+    tokens = nltk.word_tokenize(texto.lower())
+
+    # Eliminar stopwords y realizar stemming
+    stemmer = PorterStemmer()
+    stopwords_esp = set(stopwords.words('spanish'))
+    palabras_procesadas = [stemmer.stem(palabra) for palabra in tokens if palabra not in stopwords_esp]
+
+    # Unir las palabras procesadas en un texto
+    texto_procesado = ' '.join(palabras_procesadas)
+
+    return texto_procesado
