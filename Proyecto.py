@@ -63,7 +63,7 @@ print(DataFrame[columna].unique())
 
 
 # Eliminar columnas no necesarias
-dataset = DataFrame['Unnamed: 10', 'Unnamed: 11', 'Unnamed: 12'], axis=1, errors='ignore'
+dataset = DataFrame.drop(['Unnamed: 10', 'Unnamed: 11', 'Unnamed: 12'], axis=1, errors='ignore')
 
 # Manejar valores faltantes en la columna 'Etiquetas de Trastorno Psicológico'
 dataset['Etiquetas de Trastorno Psicológico'] = dataset['Etiquetas de Trastorno Psicológico'].fillna('Sin etiqueta')
@@ -73,4 +73,4 @@ dataset['Anotaciones Clinicas'] = dataset['Anotaciones Clinicas'].fillna('Sin an
 
 # Después de las transformaciones
 print("\nDataFrame después de las transformaciones:")
-print(dataset)
+print(dataset.head())
