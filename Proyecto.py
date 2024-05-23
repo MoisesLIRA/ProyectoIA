@@ -77,14 +77,23 @@ print(dataset.head())
 
 from sklearn.preprocessing import LabelEncoder
 
-# Codificar etiquetas de 'Sentimiento'
-le_sentimiento = LabelEncoder()
-dataset['Sentimiento'] = le_sentimiento.fit_transform(dataset['Sentimiento'])
+# Codificación de la columna 'Sentimiento'
+label_encoder = LabelEncoder()
+dataset['Sentimiento'] = label_encoder.fit_transform(dataset['Sentimiento']) #Asignamos un numero entero a cada categoria de la columna sentimiento
 
-# Codificar etiquetas de 'Etiquetas de Trastorno Psicológico'
-le_trastorno = LabelEncoder()
-dataset['Etiquetas de Trastorno Psicológico'] = le_trastorno.fit_transform(dataset['Etiquetas de Trastorno Psicológico'])
+"""
+Tenemos 4 tipos de sentimientos:
 
-# Codificar etiquetas de 'Género de la persona'
-le_genero = LabelEncoder()
-dataset['Género de la persona'] = le_genero.fit_transform(dataset['Género de la persona'])
+1. POSITIVO
+2. NEGATIVO
+3. NEUTRO
+4. MIXTO (COMBINACION DE POSITIVO Y NEGATIVO)
+"""
+
+
+
+# Separación de características y etiquetas
+# Variables independientes
+X = dataset.drop(columns=['Sentimiento']) # Tomamos en cuenta para un mejor analisis, todas las columnas que excepto la de sentimiento
+# Variable dependiente
+y = dataset['Sentimiento']
