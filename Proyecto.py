@@ -50,3 +50,13 @@ DataFrame['Texto'] = DataFrame['Texto'].apply(preprocesamientoTexto)
 # Visualizar algunos ejemplos de datos preprocesados
 print("Ejemplos de datos preprocesados:")
 print(DataFrame['Texto'].head(10))
+
+# Verificar valores faltantes
+print("\nValores faltantes por columna:")
+print(DataFrame.isnull().sum())
+
+# Obtener valores únicos de la columna Sentimientos
+# Nos interesa esta columna para clasificar los datos
+columna = 'Sentimiento'
+print(f"\nValores únicos en la columna '{columna}':")
+print(DataFrame[columna].unique())
