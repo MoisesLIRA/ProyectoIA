@@ -74,3 +74,17 @@ dataset['Anotaciones Clinicas'] = dataset['Anotaciones Clinicas'].fillna('Sin an
 # Después de las transformaciones
 print("\nDataFrame después de las transformaciones:")
 print(dataset.head())
+
+from sklearn.preprocessing import LabelEncoder
+
+# Codificar etiquetas de 'Sentimiento'
+le_sentimiento = LabelEncoder()
+dataset['Sentimiento'] = le_sentimiento.fit_transform(dataset['Sentimiento'])
+
+# Codificar etiquetas de 'Etiquetas de Trastorno Psicológico'
+le_trastorno = LabelEncoder()
+dataset['Etiquetas de Trastorno Psicológico'] = le_trastorno.fit_transform(dataset['Etiquetas de Trastorno Psicológico'])
+
+# Codificar etiquetas de 'Género de la persona'
+le_genero = LabelEncoder()
+dataset['Género de la persona'] = le_genero.fit_transform(dataset['Género de la persona'])
