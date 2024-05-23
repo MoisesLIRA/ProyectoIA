@@ -43,3 +43,10 @@ def preprocesamientoTexto(texto):
     texto_procesado = ' '.join(palabras_procesadas)
 
     return texto_procesado
+
+# Aplicar preprocesamiento a la columna 'Texto'
+DataFrame['Texto'] = DataFrame['Texto'].apply(preprocesamientoTexto)
+
+# Visualizar algunos ejemplos de datos preprocesados
+print("Ejemplos de datos preprocesados:")
+print(DataFrame['Texto'].head(10))
