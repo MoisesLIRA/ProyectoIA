@@ -97,3 +97,6 @@ Tenemos 4 tipos de sentimientos:
 X = dataset.drop(columns=['Sentimiento']) # Tomamos en cuenta para un mejor analisis, todas las columnas que excepto la de sentimiento
 # Variable dependiente
 y = dataset['Sentimiento']
+
+vectorizer = TfidVectorizer()
+y_text = vectorizer.fit_transform(y['Texto'])
