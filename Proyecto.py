@@ -98,5 +98,14 @@ X = dataset.drop(columns=['Sentimiento']) # Tomamos en cuenta para un mejor anal
 # Variable dependiente
 y = dataset['Sentimiento']
 
+#Vectorización de los datos
 vectorizer = TfidVectorizer()
-y_text = vectorizer.fit_transform(y['Texto'])
+X_text = vectorizer.fit_transform(X['Texto'])
+
+from sklearn.preprocessing import OneHotEncoder
+
+encoder = OneHotEncoder(sparse = False)
+X_categ = encoder.fit_transform(X[['Contexto', 'Palabras Clave', 'Etiquetas de Transtorno Psicológico', 'Anotaciones Clinicas']])
+
+#Concatena las características textuales y categóricas.
+X_combined = np.hstack((X_text.toarray(), X_categ)) 
