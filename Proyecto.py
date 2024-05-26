@@ -1,6 +1,7 @@
 # Importarmos las biblitecas a utilizar
 import nltk
 import pandas as pd
+import numpy as np
 from nltk.corpus import stopwords
 from nltk.stem import PorterStemmer
 from sklearn.feature_extraction.text import TfidfVectorizer
@@ -109,3 +110,11 @@ X_categ = encoder.fit_transform(X[['Contexto', 'Palabras Clave', 'Etiquetas de T
 
 #Concatena las características textuales y categóricas.
 X_combined = np.hstack((X_text.toarray(), X_categ)) 
+
+from sklearn.model_selection import train_test_split
+# División de los datos en conjuntos de entrenamiento y prueba
+X_train, X_test, y_train, y_test = train_test_split(X_combined, y, test_size=0.2, random_state=42)
+
+
+
+
